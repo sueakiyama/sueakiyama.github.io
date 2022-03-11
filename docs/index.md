@@ -11,6 +11,7 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 - [英語 / English / Anglais](index-en)
 - [フランス語 / French / Français](index-fr)
 
+### Latest Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
