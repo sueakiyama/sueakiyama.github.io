@@ -13,7 +13,7 @@
 - ニコニコ: [すー](https://www.nicovideo.jp/user/97810681/video)
 
 ## Vous voulez consulter les sites des autres langues ?
-- 英語 / English / Anglais
-- フランス語 / French / Français
+- [英語 / English / Anglais](index-en)
+- [フランス語 / French / Français](index-fr)
 
 Vous voulez consulter [la page d'accueil](index) ?
