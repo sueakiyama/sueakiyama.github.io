@@ -12,7 +12,7 @@
 - Twitter(ボカロ): [@suikavocalo](https://twitter.com/suikavocalo)
 - ニコニコ: [すー](https://www.nicovideo.jp/user/97810681/video)
 
-## Vous voulez consulter le site des autres langues ?
+## Vous voulez consulter les sites des autres langues ?
 - 英語 / English / Anglais
 - フランス語 / French / Français
 
