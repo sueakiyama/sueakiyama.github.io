@@ -16,7 +16,7 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2 style="display:inline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2 style="display:inline;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.date }}
       <br>
       {{ post.excerpt }}
