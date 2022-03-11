@@ -11,6 +11,14 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 - [英語 / English / Anglais](index-en)
 - [フランス語 / French / Français](index-fr)
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <!--
 You can use the [editor on GitHub](https://github.com/sueakiyama/sueakiyama.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
