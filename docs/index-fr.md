@@ -8,8 +8,8 @@ Je parle japonais, anglais et français. J'ai récemment commencé à étudier l
 Je joue du piano, je compose, et parle parfois. J'aime aussi tweeter.
 
 ## Informations Générales
-- Twitter(Main Account): [@mtdtr_tk](https://twitter.com/mtdtr_tk)
-- Twitter(seulement sur Vocaloid): [@suikavocalo](https://twitter.com/suikavocalo)
+- Twitter(Le Compte Primaire): [@mtdtr_tk](https://twitter.com/mtdtr_tk)
+- Twitter(Seulement sur Vocaloid): [@suikavocalo](https://twitter.com/suikavocalo)
 - niconico: [すー](https://www.nicovideo.jp/user/97810681/video)
 
 ## Vous voulez consulter les sites des autres langues ?
