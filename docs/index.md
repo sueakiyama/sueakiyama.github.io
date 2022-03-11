@@ -18,6 +18,7 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
+      {{ post.date }}
     </li>
   {% endfor %}
 </ul>
