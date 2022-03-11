@@ -1,15 +1,15 @@
 # Bienvenue sur le site web de Suika Akiyama !
 
-秋山翠花のサイトへようこそ。
+秋山翠花のサイトへようこそ。まずは言語を選んでください。
 
-Welcome to the website of Suika Akiyama!
+Welcome to the website of Suika Akiyama! Please select your favorite language.
 
-Bienvenue sur le site web de Suika Akiyama !
+Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 
-### Choisissez la langue.
-- Japonais
-- Anglais
-- Français
+### 言語 / Language / Langue
+- 日本語 / Japanese / Japonais
+- 英語 / English / Anglais
+- フランス語 / French / Français
 
 <!--
 You can use the [editor on GitHub](https://github.com/sueakiyama/sueakiyama.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
