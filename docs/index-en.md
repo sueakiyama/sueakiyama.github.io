@@ -12,7 +12,7 @@ I play the piano, compose songs, and sometimes speak. Also, I often tweet.
 - Twitter(seulement sur Vocaloid): [@suikavocalo](https://twitter.com/suikavocalo)
 - niconico: [すー](https://www.nicovideo.jp/user/97810681/video)
 
-## Vous voulez consulter le site des autres langues ?
+## Vous voulez consulter les sites des autres langues ?
 - [日本語 / Japanese / Japonais](index-ja)
 - [フランス語 / French / Français](index-fr)
 
