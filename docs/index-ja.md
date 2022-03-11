@@ -5,3 +5,9 @@
 
 使える言語は日本語・英語・フランス語です。さいきんラテン語を勉強しはじめました。
 
+ピアノを弾きます。作曲もします。ときどき喋ります。あとツイッターも。
+
+## 基本情報
+Twitter(メイン): [@mtdtr_tk](https://twitter.com/mtdtr_tk)
+Twitter(ボカロ): [@suikavocalo](https://twitter.com/suikavocalo)
+ニコニコ: [すー](https://www.nicovideo.jp/user/97810681/video)
