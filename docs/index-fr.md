@@ -13,7 +13,7 @@ Je joue du piano, je compose, et parle parfois. J'aime aussi tweeter.
 - niconico: [すー](https://www.nicovideo.jp/user/97810681/video)
 
 ## Vous voulez consulter les sites des autres langues ?
+- [日本語 / Japanese / Japonais](index-ja)
 - [英語 / English / Anglais](index-en)
-- [フランス語 / French / Français](index-fr)
 
 Vous voulez consulter [la page d'accueil](index) ?
