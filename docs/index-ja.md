@@ -16,4 +16,4 @@
 - 英語 / English / Anglais
 - フランス語 / French / Français
 
-Vous voulez consulter [le page d'accueil](index) ?
+Vous voulez consulter [la page d'accueil](index) ?
