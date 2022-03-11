@@ -1,6 +1,12 @@
-## Bienvenue sur le site web de Suika Akiyama!
+# Bienvenue sur le site web de Suika Akiyama !
 
-Choisissez la langue.
+秋山翠花のサイトへようこそ。
+
+Welcome to the website of Suika Akiyama!
+
+Bienvenue sur le site web de Suika Akiyama !
+
+### Choisissez la langue.
 - Japonais
 - Anglais
 - Français
