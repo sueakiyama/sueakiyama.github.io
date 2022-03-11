@@ -8,8 +8,8 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 
 ### 言語 / Language / Langue
 - [日本語 / Japanese / Japonais](index-ja)
-- 英語 / English / Anglais
-- フランス語 / French / Français
+- [英語 / English / Anglais](index-en)
+- [フランス語 / French / Français](index-fr)
 
 <!--
 You can use the [editor on GitHub](https://github.com/sueakiyama/sueakiyama.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
