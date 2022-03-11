@@ -11,11 +11,13 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 - [英語 / English / Anglais](index-en)
 - [フランス語 / French / Français](index-fr)
 
-### Latest Blog Posts
+<h1>Latest Posts</h1>
+
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
