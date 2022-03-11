@@ -15,3 +15,5 @@
 ## Vous voulez consulter le site des autres langues ?
 - 英語 / English / Anglais
 - フランス語 / French / Français
+
+Vous voulez consulter [le page d'accueil](index.html) ?
