@@ -1,2 +1,2 @@
 # sueakiyama.github.io
-mon website
+I AM A LAZY PERSON.
