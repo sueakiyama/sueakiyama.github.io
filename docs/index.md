@@ -7,7 +7,7 @@ Welcome to the website of Suika Akiyama! Please select your favorite language.
 Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
 
 ### 言語 / Language / Langue
-- 日本語 / Japanese / Japonais
+- [日本語 / Japanese / Japonais](index-ja.html)
 - 英語 / English / Anglais
 - フランス語 / French / Français
 
