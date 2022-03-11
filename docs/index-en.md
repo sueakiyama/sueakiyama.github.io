@@ -16,4 +16,4 @@ I play the piano, compose songs, and sometimes speak. Also, I often tweet.
 - [日本語 / Japanese / Japonais](index-ja)
 - [フランス語 / French / Français](index-fr)
 
-Vous voulez consulter [le page d'accueil](index) ?
+Vous voulez consulter [la page d'accueil](index) ?
