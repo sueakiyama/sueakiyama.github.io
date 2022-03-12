@@ -1,3 +1,7 @@
+---
+description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
+---
+
 # 日本語のページ!
 
 ## ねえ!
