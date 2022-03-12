@@ -17,7 +17,7 @@ Bienvenue sur le site web de Suika Akiyama ! Choisissez ta langue préfère.
   {% for post in site.posts %}
     <li>
       <h2 style="display:inline;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.date }}
+      {{ page.date | date_to_string }}
       <br>
       {{ post.excerpt }}
     </li>
