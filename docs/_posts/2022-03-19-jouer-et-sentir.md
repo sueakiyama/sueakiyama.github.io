@@ -2,6 +2,7 @@
 layout: post
 title: "Jouer et Sentir"
 excerpt: "Qu'est-ce que c'est « jouer » ? Jouer, Imiter, et Sentir."
+description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
 ---
 
