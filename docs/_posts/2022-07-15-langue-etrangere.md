@@ -36,6 +36,7 @@ Bonjour, bonsoir, enchanté. Je m’appelle Suika Akiyama, étudiant de deuxièm
 Tout d’abord, vous devez suivre le programme qui s’appelle TLP. C’est le programme spécial pour les étudiants qui veulent étudier intensivement leur deuxième langue étrangère. Il y en a deux avantages.
 1.	À Komaba, les étudiants ne peuvent suivre que 30 crédits par semestre, mais si vous suivez TLP, vous pouvez en suivre jusqu’à 36 (Les cours ordinaires : 30, Les cours TLP : 6). Alors vous pouvez étudier à la fois votre spécialité (par exemple, droit, économique, ou science) et la langue étrangère.
 2.	Les cours de TLP ont lieu à une heure différente de celle des cours obligatoires. Les cours ordinaires de langues étrangères ont parfois lieu en même temps que les cours obligatoires, donc c’est peut-être le plus grand avantage.
+
 Si vous ne suivez pas TLP maintenant, vous pouvez vous transférer au début de **CHAQUE** semestre. Consultez [le site web du TLP](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) pour plus d’informations.
 
 ###	Cours d’Enshu
