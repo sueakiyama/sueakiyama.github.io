@@ -28,6 +28,16 @@ author: "秋山翠花"
 
 みなさんがこれらを最大限活用して、駒場で外国語を学習されることを願っています!
 
+### おまけ: 外国語に全振りした時間割の例 (2Sセメスター)
+| 時間 | 月 | 火 | 水 | 木 | 金 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1限 | 総合科目 | | | 総合科目 | |
+| 2限 | 必修科目 | フランス語 | 必修科目 | 必修科目 | ドイツ語 |
+| 3限 | | 必修科目 | ロシア語 | フランス語 | 総合科目 |
+| 4限 | フランス語 | 必修科目 | | | フランス語 |
+| 5限 | ドイツ語 | | ロシア語 | フランス語 | 総合科目 |
+
+
 # Étudier des Langues Étrangères à Komaba - Mais Comment ?
 
 Bonjour, bonsoir, enchanté. Je m’appelle Suika Akiyama, étudiant de deuxième année à Komaba. Aujourd’hui, je vais écrire à propos de langues étrangères; Comment peut-on étudier efficacement des (plusieurs ?) langues étrangères à Komaba ?
