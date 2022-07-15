@@ -6,7 +6,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 author: "秋山翠花"
 ---
 
-# 駒場で外国語を学ぶ - でもどうやって?
+## 駒場で外国語を学ぶ - でもどうやって?
 
 こんにちは、こんばんは、はじめまして。駒場で学部2年生をしている、秋山翠花です。今回の記事のテーマは、外国語です。駒場で効果的に(複数の?)外国語を学ぶには、どうすればよいのでしょうか?
 
@@ -39,7 +39,7 @@ author: "秋山翠花"
 | 5限 | ドイツ語(作文) | | ロシア語(三外) | フランス語(インテ) | 総合科目 |
 
 
-# Étudier des Langues Étrangères à Komaba - Mais Comment ?
+## Étudier des Langues Étrangères à Komaba - Mais Comment ?
 
 Bonjour, bonsoir, enchanté. Je m’appelle Suika Akiyama, étudiant de deuxième année à Komaba. Aujourd’hui, je vais écrire à propos de langues étrangères; Comment peut-on étudier efficacement des (plusieurs ?) langues étrangères à Komaba ?
 
