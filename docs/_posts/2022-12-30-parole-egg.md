@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "『逆たまごかけごはん』歌詞"
-excerpt: "2022年12月30日のC101で頒布するCD『逆たまごかけごはん』の歌詞カードです。"
+title: "parole"
+excerpt: "2022-12-30"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
 ---
