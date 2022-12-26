@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Il faut faire tout ce qui est possible."
+title: "Il faut faire tout ce qui est possible."
 excerpt: "Pour conserver et regagner les droits."
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
