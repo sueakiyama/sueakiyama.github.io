@@ -4,7 +4,10 @@ title: "『逆たまごかけごはん』歌詞"
 excerpt: "2022年12月30日のC101で頒布するCD『逆たまごかけごはん』の歌詞です。"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
+image: https://sueakiyama.github.io/images/20221227.png
 ---
+
+![ジャケット](https://sueakiyama.github.io/images/20221227.png)
 
 ## 1. 逆たまごかけごはん
 
