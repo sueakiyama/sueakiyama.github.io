@@ -2,7 +2,7 @@
 layout: home
 title: "Accueil - Le Site Web de Suika AKIYAMA"
 title_for_header: "ACCUEIL"
-image: https://sueakiyama.github.io/thumbnail1.png
+image: https://sueakiyama.github.io/thumbnail_new.png
 ---
 
 # Bienvenue sur le site web de Suika Akiyama !
