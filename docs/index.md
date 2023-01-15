@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Bienvenue sur le site web de Suika Akiyama !
 
 秋山翠花のサイトへようこそ。まずは言語を選んでください。
