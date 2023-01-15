@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category-post
 title: "Étudier des Langues Étrangères à Komaba"
 excerpt: "Vous voulez étudier des langues étrangères à Komaba ? Si oui, il y a quelques conseils."
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
