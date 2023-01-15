@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "HOME"
 ---
 
 # Bienvenue sur le site web de Suika Akiyama !
