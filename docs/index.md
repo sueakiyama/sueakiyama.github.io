@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "HOME"
+title: "Accueil - Le Site Web de Suika AKIYAMA"
+title_for_header: "ACCUEIL"
 image: https://sueakiyama.github.io/images/thumbnail.png
 ---
 
