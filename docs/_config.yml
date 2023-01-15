@@ -18,7 +18,7 @@ theme_color: black
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Le Site Web de Suika AKIYAMA
-description: Suika AKIYAMA, composeur, étudiant, etc.
+description: Suika AKIYAMA, compositeur, étudiant, etc.
 github_repo: sueakiyama.github.io # the GitHub repo name for your project
 github_username: sueakiyama
 
