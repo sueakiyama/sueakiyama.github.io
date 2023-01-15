@@ -19,3 +19,5 @@ theme_color: black
 # in the templates via {{ site.myvariable }}.
 title: Le Site Web de Suika AKIYAMA
 description: Suika AKIYAMA, composeur, étudiant, etc.
+github_repo: sueakiyama.github.io # the GitHub repo name for your project
+github_username: sueakiyama
