@@ -1,5 +1,6 @@
 ---
-title: "JA"
+title: "日本語のページ - Suika AKIYAMA"
+title_for_header: "JA"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 ---
 
