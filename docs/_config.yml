@@ -21,3 +21,5 @@ title: Le Site Web de Suika AKIYAMA
 description: Suika AKIYAMA, composeur, étudiant, etc.
 github_repo: sueakiyama.github.io # the GitHub repo name for your project
 github_username: sueakiyama
+
+url: "https://sueakiyama.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
