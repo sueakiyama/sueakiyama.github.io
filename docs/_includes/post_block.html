@@ -3,7 +3,7 @@
   <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">
   {% assign date_english = post.date | date: date_format %}
   {% include date-french.html %}
-  {{ date_french }}
+  {{ post.date }}
   </a>
   <h2 class="h1 lh-condensed col-9 mt-0">
     
