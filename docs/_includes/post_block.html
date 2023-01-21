@@ -1,9 +1,9 @@
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2 prose">
   <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">
-  {% assign date_english = post.date | date: date_format %}
+  {% assign date_english = post.date | date_to_string %}
   {% include date-french.html %}
-  {{ post.date | date_to_string }}
+  {{ date_french }}
   </a>
   <h2 class="h1 lh-condensed col-9 mt-0">
     
