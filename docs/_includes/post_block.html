@@ -1,7 +1,7 @@
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2 prose">
   <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">
-  {% assign date_english = post.date | date: "%b %-d, %Y" %}
+  {% assign date_english = post.date | date-to-string %}
   {% include date-french.html %}
   {{ date_french }}
   </a>
