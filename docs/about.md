@@ -6,7 +6,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 # Qui est Suika AKIYAMA ?
 
->Suika AKIYAMA, étudiant, compositeur, etc.
+> Suika AKIYAMA, étudiant, compositeur, etc.
 
 ## Les Informations Basiques
 - **Université**: l'Université de Komaba, Tokyo.
@@ -15,7 +15,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 - **Autres Mots-clés**: Piano🎹, Composition🎼, Vocaloid, HATSUNE Miku, Cosplay, *Niconico*, *Onimai*, *Otokonoko*.
 
 ## Les Réseaux Sociaux
-- Twitter (Compte Principal): [@MTDTR_tk](https://twitter.com/MTDTR_tk)
-- Twitter (Compte pour Vocaloid): [@SuikaVocalo](https://twitter.com/SuikaVocalo)
-- Niconico: [すー/秋山翠花](https://www.nicovideo.jp/user/97810681/video)
-- Youtube: [すー](https://www.youtube.com/@user-uu7me5ub9d)
+- **Twitter (Compte Principal)**: [@MTDTR_tk](https://twitter.com/MTDTR_tk)
+- **Twitter (Compte pour Vocaloid)**: [@SuikaVocalo](https://twitter.com/SuikaVocalo)
+- **Niconico**: [すー/秋山翠花](https://www.nicovideo.jp/user/97810681/video)
+- **Youtube**: [すー](https://www.youtube.com/@user-uu7me5ub9d)
