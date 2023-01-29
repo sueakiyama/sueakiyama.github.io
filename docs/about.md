@@ -8,7 +8,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 Suika AKIYAMA, étudiant, compositeur, etc.
 
-## L'Information Basique
+## L'Informations Basiques
 - **Université**: l'Université de Komaba, Tokyo.
 - **Spécialité**: la langue française.
 - **Langues**: japonais🇯🇵 (langue maternelle), anglais🇬🇧 (C1), français🇫🇷 (B1), allemand🇩🇪, russe🇷🇺, latin, toki pona.
