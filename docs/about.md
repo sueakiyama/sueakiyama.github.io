@@ -6,7 +6,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 # Qui est Suika AKIYAMA ?
 
-> Suika AKIYAMA, étudiant, compositeur, etc.
+> #### Suika AKIYAMA, étudiant, compositeur, etc.
 
 ## Les Informations Basiques
 - **Université**: l'Université de Komaba, Tokyo.
