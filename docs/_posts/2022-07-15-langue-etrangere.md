@@ -38,13 +38,6 @@ author: "秋山翠花"
 | 4限 | フランス語(インテ) | 必修科目 | | | フランス語(作文) |
 | 5限 | ドイツ語(作文) | | ロシア語(三外) | フランス語(インテ) | 総合科目 |
 
-<table>
-  <tr>
-    <td style="background-color:#ff0000;">ワハハ</td>
-  </tr>
-</table>
-
-
 ## Étudier des Langues Étrangères à Komaba - Mais Comment ?
 
 Bonjour, bonsoir, enchanté. Je m’appelle Suika Akiyama, étudiant de deuxième année à Komaba. Aujourd’hui, je vais écrire à propos de langues étrangères; Comment peut-on étudier efficacement des (plusieurs ?) langues étrangères à Komaba ?
