@@ -11,10 +11,16 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       <tr>
         <th>作曲年</th>
         <td>2022年10月</td>
+      </tr>
+      <tr>
         <th>ニコニコ</th>
         <td>sm00000</td>
+      </tr>
+      <tr>
         <th>歌詞</th>
         <td>割れたたまごが元には戻らないように……</td>
+      </tr>
+      <tr>
         <th>収録CD</th>
         <td>逆たまごかけごはん</td>
       </tr>
@@ -26,10 +32,16 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       <tr>
         <th>作曲年</th>
         <td>2022年10月</td>
+      </tr>
+      <tr>
         <th>ニコニコ</th>
         <td>sm00000</td>
+      </tr>
+      <tr>
         <th>歌詞</th>
         <td>割れたたまごが元には戻らないように……</td>
+      </tr>
+      <tr>
         <th>収録CD</th>
         <td>逆たまごかけごはん</td>
       </tr>
@@ -41,10 +53,16 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       <tr>
         <th>作曲年</th>
         <td>2022年10月</td>
+      </tr>
+      <tr>
         <th>ニコニコ</th>
         <td>sm00000</td>
+      </tr>
+      <tr>
         <th>歌詞</th>
         <td>割れたたまごが元には戻らないように……</td>
+      </tr>
+      <tr>
         <th>収録CD</th>
         <td>逆たまごかけごはん</td>
       </tr>
