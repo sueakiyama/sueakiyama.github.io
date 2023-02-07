@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/*
 table.calendar th, td {
   width: 10%;
   height: 10%;
@@ -8,4 +9,10 @@ table.calendar th, td {
 table.calendar td {
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+*/
+
+table.calendar {
+  table-layout:fixed;
 }
