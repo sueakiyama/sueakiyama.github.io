@@ -2,12 +2,11 @@
 title: "Illustrations - Le Site Web de Suika AKIYAMA"
 title_for_header: "Illustr."
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
-layout: default_calendar
 ---
 
 # Février 2023
 
-<table>
+<table class="calendar">
   <tr>
     <th>lu</th>
     <th>ma</th>
