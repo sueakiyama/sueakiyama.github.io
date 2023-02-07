@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
-/*
-table.calendar th, td {
+
+table.calendar th, table.calendar td {
   width: 10%;
-  height: 10%;
+  height: 90px;
+  padding: 0 0.1%;
 }
 
 table.calendar td {
@@ -11,9 +12,9 @@ table.calendar td {
   background-repeat: no-repeat;
 }
 
-*/
-
-table.calendar {
-  display:table;
-  table-layout:fixed;
+img {
+  display:block;
+  height:100%;
+  width:90%;
+  object-fit:cover;
 }
