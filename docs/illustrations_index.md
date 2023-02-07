@@ -8,13 +8,13 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 <table>
   <tr>
-    <td>lu</td>
-    <td>ma</td>
-    <td>me</td>
-    <td>je</td>
-    <td>ve</td>
-    <td>sa</td>
-    <td>di</td>
+    <th>lu</th>
+    <th>ma</th>
+    <th>me</th>
+    <th>je</th>
+    <th>ve</th>
+    <th>sa</th>
+    <th>di</th>
   </tr>
   <tr>
     <td></td>
