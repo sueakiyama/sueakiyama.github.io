@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+th, td{
+  width: 10%;
+  height: 10%;
+}
+
+td {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
