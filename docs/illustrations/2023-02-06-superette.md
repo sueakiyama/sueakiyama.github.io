@@ -4,7 +4,7 @@ title: "コンビニで買ったすいか爆弾"
 author: "秋山翠花"
 ---
 
-「コンビニで買った核爆弾とオマケのリキッドファンデーションの苦み」[(sm41320974)](https://www.nicovideo.jp/watch/sm41320974)の模写をいたしました。
+「コンビニで買った核爆弾とオマケのリキッドファンデーションの苦み」[(sm41320974)](https://www.nicovideo.jp/watch/sm41320974) の模写をいたしました。
 
 ![コンビニで買ったすいか爆弾とオマケのリキッドファンデーションの苦み](https://sueakiyama.github.io/illustrations/images/20230206_2.png)
 
