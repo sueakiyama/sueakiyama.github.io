@@ -14,6 +14,6 @@ table.calendar td {
 */
 
 table.calendar {
+  display:table;
   table-layout:fixed;
-  width:50%;
 }
