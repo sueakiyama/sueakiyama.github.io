@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+* {
+  transition: all 1s;
+}
 
 table.calendar th, table.calendar td {
   width: 10%;
