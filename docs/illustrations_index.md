@@ -7,7 +7,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 # Février 2023
 
 <table class="calendar">
-  <tr>
+  <tr class="date">
     <th>lu</th>
     <th>ma</th>
     <th>me</th>
