@@ -15,4 +15,5 @@ table.calendar td {
 
 table.calendar {
   table-layout:fixed;
+  width:50%;
 }
