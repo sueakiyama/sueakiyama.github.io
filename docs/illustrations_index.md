@@ -26,7 +26,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <td>5</td>
   </tr>
   <tr>
-    <td style="backgroud-image: url('https://sueakiyama.github.io/images/20221227.png');">6</td>
+    <td style="backgroud-image: url(images/20221227.png);">6</td>
     <td>7</td>
     <td>8</td>
     <td>9</td>
