@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 * {
-  transition: all 1s;
+  transition: all 0.5s;
 }
 
 table.calendar th, table.calendar td {
