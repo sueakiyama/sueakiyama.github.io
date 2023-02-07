@@ -34,5 +34,5 @@ tr.date th {
 .grid {
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, 200px);
+  grid-template-columns: repeat(auto-fit, 450px);
 }
