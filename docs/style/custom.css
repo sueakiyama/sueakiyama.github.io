@@ -27,3 +27,9 @@ td:hover img {
 tr.date th {
   height:10%;
 }
+
+.grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, 200px);
+}
