@@ -17,6 +17,11 @@ img {
   height:100%;
   width:90%;
   object-fit:cover;
+  transition: transform 1s;
+}
+
+td:hover img {
+  transform: scale(0.8, 0.8);
 }
 
 tr.date th {
