@@ -79,11 +79,11 @@ table.float-right td{
 
 table.float-left {
   float:left;
-  width:400px;
+  width:450px;
 }
 
 img.float-right {
-  height:100%
+  width:500px;
 }
 
 
@@ -102,5 +102,12 @@ img.float-right {
   }
   table.float-right {
     height:auto;
+  }
+  table.float-left {
+    width:100%;
+  }
+
+  img.float-right {
+    width:100%;
   }
 }
