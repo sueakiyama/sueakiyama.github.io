@@ -42,20 +42,7 @@ div.item {
   position:relative;
 }
 
-@media screen and (max-width:500px){
-  .grid{
-    grid-template-columns: repeat(auto-fit, 90%);
-  }
-  div.item {
-    height:fit-content;
-  }
-  img.float-left {
-    height:100%
-  }
-  div.item h2{
-    font-size: clamp(10px, 6vw, 32px);
-  }
-}
+
 
 div.item, div.item tr{
   background-color:#ddefff;
@@ -88,4 +75,22 @@ img.float-left:hover {
 
 table.float-right td{
   word-wrap:anywhere;
+}
+
+@media screen and (max-width:500px){
+  .grid{
+    grid-template-columns: repeat(auto-fit, 90%);
+  }
+  div.item {
+    height:fit-content;
+  }
+  img.float-left {
+    height:100%
+  }
+  div.item h2{
+    font-size: clamp(10px, 6vw, 32px);
+  }
+  table.float-right {
+    height:auto;
+  }
 }
