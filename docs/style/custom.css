@@ -77,6 +77,16 @@ table.float-right td{
   word-wrap:anywhere;
 }
 
+table.float-left {
+  float:left;
+  width:400px;
+}
+
+img.float-right {
+  height:100%
+}
+
+
 @media screen and (max-width:500px){
   .grid{
     grid-template-columns: repeat(auto-fit, 90%);
