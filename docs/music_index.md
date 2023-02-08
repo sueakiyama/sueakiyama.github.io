@@ -21,7 +21,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
       <tr>
         <th>ニコニコ</th>
-        <td>sm00000</td>
+        <td>sm41194270</td>
       </tr>
       <tr>
         <th>歌詞</th>
