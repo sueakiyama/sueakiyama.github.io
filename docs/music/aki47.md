@@ -66,4 +66,4 @@ feat. 初音ミク
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm41194270/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm41194270">[ミクオリジナル]逆たまごかけごはん(aki47)</a></noscript>
 
 feat. 可不  
-<audio controls src="mp3/aki47_kafu_short.mp3>
+<audio controls src="mp3/aki47_kafu_short.mp3">
