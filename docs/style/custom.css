@@ -34,7 +34,7 @@ tr.date th {
 .grid {
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, 500px);
+  grid-template-columns: repeat(auto-fit, 450px);
 }
 
 div.item {
@@ -42,10 +42,14 @@ div.item {
   position:relative;
 }
 
+div.item, div.item tr{
+  background-color:#ddefff;
+}
+
 img.float-left {
   float:left;
   width:30%;
-  height:410px;
+  height:100%;
   object-fit:cover;
   transition: all 1s;
   position:absolute;
