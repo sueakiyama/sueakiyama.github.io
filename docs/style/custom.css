@@ -34,5 +34,20 @@ tr.date th {
 .grid {
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, 450px);
+  grid-template-columns: repeat(auto-fit, 500px);
+}
+
+img.float-left {
+  float:left;
+  width:50%;
+}
+
+table.float-right {
+  float:left;
+  width:50%;
+  table-layout:fixed;
+}
+
+table.float-right td{
+  word-wrap:anywhere;
 }
