@@ -2,7 +2,7 @@
 layout: category-post
 title: "逆たまごかけごはん"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/illustrations/images/20230206_2.png
+image: https://sueakiyama.github.io/music/images/aki47.jpg
 ---
 
 ## 基本データ
