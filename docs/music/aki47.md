@@ -18,7 +18,7 @@ image: https://sueakiyama.github.io/illustrations/images/20230206_2.png
   </tr>
   <tr>
     <td>ニコニコ</td>
-    <td>sm00000</td>
+    <td><a href="https://nico.ms/sm41194270">sm41194270</a></td>
   </tr>
   <tr>
     <td>歌詞</td>
