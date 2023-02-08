@@ -10,6 +10,10 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <h2>逆たまごかけごはん</h2>
     <table class="float-right">
       <tr>
+        <th>ID</th>
+        <td>aki47</td>
+      </tr>
+      <tr>
         <th>作曲年</th>
         <td>2022年10月</td>
       </tr>
