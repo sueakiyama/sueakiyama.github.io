@@ -43,9 +43,7 @@ img.float-left {
 }
 
 table.float-right {
-  float:left;
-  width:50%;
-  table-layout:fixed;
+  width:auto;
 }
 
 table.float-right td{
