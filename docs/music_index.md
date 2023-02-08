@@ -10,23 +10,23 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <h2>逆たまごかけごはん</h2>
     <table class="float-right">
       <tr>
-        <td>ID</td>
+        <th>ID</th>
         <td>aki47</td>
       </tr>
       <tr>
-        <td>作曲年</td>
+        <th>作曲年</th>
         <td>2022年10月</td>
       </tr>
       <tr>
-        <td>ニコニコ</td>
+        <th>ニコニコ</th>
         <td>sm00000</td>
       </tr>
       <tr>
-        <td>歌詞</td>
+        <th>歌詞</th>
         <td>割れたたまごが元には戻らないように……</td>
       </tr>
       <tr>
-        <td>収録CD</td>
+        <th>収録CD</th>
         <td>逆たまごかけごはん</td>
       </tr>
     </table>
