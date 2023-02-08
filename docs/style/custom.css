@@ -37,13 +37,34 @@ tr.date th {
   grid-template-columns: repeat(auto-fit, 500px);
 }
 
+div.item {
+  height:400px;
+  position:relative;
+}
+
 img.float-left {
   float:left;
-  width:50%;
+  width:30%;
+  height:410px;
+  object-fit:cover;
+  transition: all 1s;
+  position:absolute;
+}
+
+div.item h2{
+  float:right;
 }
 
 table.float-right {
-  width:auto;
+  width:70%;
+  height:400px;
+  float:right;
+}
+
+img.float-left:hover {
+  width:100%;
+  transition: all 1s;
+  position:absolute;
 }
 
 table.float-right td{
