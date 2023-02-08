@@ -7,7 +7,7 @@ image: https://sueakiyama.github.io/illustrations/images/20230206_2.png
 
 ## 基本データ
 
-<table>
+<table class="float-left">
   <tr>
     <td>ID</td>
     <td>aki47</td>
@@ -29,6 +29,8 @@ image: https://sueakiyama.github.io/illustrations/images/20230206_2.png
     <td>逆たまごかけごはん</td>
   </tr>
 </table>
+
+<img class="float-right" src="images/aki47.jpg" alt="逆たまごかけごはん">
 
 ## 歌詞
 
