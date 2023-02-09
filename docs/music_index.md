@@ -9,7 +9,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <a href="music/aki47.html">
       <img class="float-left" src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/41194270/41194270.3848966.original/r1280x720l?key=69d87913fbcd123b3b425d26f88e78a6b27bbc1ee99c89484a81a9a86a8b1e97" alt="逆たまごかけごはんサムネイル">
     </a> 
-    <h2>逆たまごかけごはん</h2>
+    <h2 class="float-right">逆たまごかけごはん</h2>
     <table class="float-right">
       <tr>
         <th>ID</th>
