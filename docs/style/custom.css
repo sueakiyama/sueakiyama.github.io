@@ -67,6 +67,11 @@ table.float-right {
   float:right;
 }
 
+h2.float-right {
+  width:70%;
+  float:right;
+}
+
 img.float-left:hover {
   width:100%;
   transition: all 1s;
