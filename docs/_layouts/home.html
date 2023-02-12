@@ -13,9 +13,11 @@
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
               {% if my_page.title_for_header %}
-                 <li class="inline-block">
-                   <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title_for_header }}</a>
-                 </li>
+                {% unless my_page.title_for_header == "ACCUEIL" %}
+                   <li class="inline-block">
+                     <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title_for_header }}</a>
+                   </li>
+                {% endunless %}
               {% endif %}
             {% endfor %}
           </ul>
