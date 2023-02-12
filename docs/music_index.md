@@ -6,6 +6,34 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 <div class="grid">
   <div class="item">
+    <a href="music/aki51.html">
+      <img class="float-left" src="https://sueakiyama.github.io/images/20221227.png" alt="逆たまごかけごはんジャケット">
+    </a> 
+    <h2 class="float-right">セカンドハンド・ラブストーリー</h2>
+    <table class="float-right">
+      <tr>
+        <th>ID</th>
+        <td>aki51</td>
+      </tr>
+      <tr>
+        <th>作曲年</th>
+        <td>2022年12月</td>
+      </tr>
+      <tr>
+        <th>ニコニコ</th>
+        <td>なし</td>
+      </tr>
+      <tr>
+        <th>歌詞</th>
+        <td>「すき」とか「愛してる」とか……</td>
+      </tr>
+      <tr>
+        <th>収録CD</th>
+        <td>逆たまごかけごはん</td>
+      </tr>
+    </table>
+  </div>
+  <div class="item">
     <a href="music/aki47.html">
       <img class="float-left" src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/41194270/41194270.3848966.original/r1280x720l?key=69d87913fbcd123b3b425d26f88e78a6b27bbc1ee99c89484a81a9a86a8b1e97" alt="逆たまごかけごはんサムネイル">
     </a> 
