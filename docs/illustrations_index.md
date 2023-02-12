@@ -33,7 +33,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <td>9</td>
     <td>10</td>
     <td>11</td>
-    <td>12</td>
+    <td><a href="illustrations/2023-02-12-cafe.html"><img src="illustrations/images/20230212_3.png" alt="12_トレーナーがカフェちゃんを欲しがっている"></a></td> 
   </tr>
   <tr>
     <td>13</td>
