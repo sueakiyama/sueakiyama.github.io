@@ -9,7 +9,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <a href="music/aki51.html">
       <img class="float-left" src="https://sueakiyama.github.io/images/20221227.png" alt="逆たまごかけごはんジャケット">
     </a> 
-    <h2 class="float-right">セカンドハンド・ラブストーリー</h2>
+    <h2 class="float-right" style="font-size:10%;">セカンドハンド・ラブストーリー</h2>
     <table class="float-right">
       <tr>
         <th>ID</th>
