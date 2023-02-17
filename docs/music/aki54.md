@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title: "セカンドハンド・ラブストーリー"
+title: "春休み2週間目"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/illustrations/images/20230216_1.png
 ---
