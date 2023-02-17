@@ -39,7 +39,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <td>13</td>
     <td>14</td>
     <td>15</td>
-    <td>16</td>
+    <td><a href="illustrations/2023-02-16-vacances.html"><img src="illustrations/images/20230216_1.png" alt="16_春休み2週間目"></a></td>
     <td>17</td>
     <td>18</td>
     <td>19</td>
