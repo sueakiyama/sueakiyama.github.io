@@ -18,7 +18,7 @@ image: https://sueakiyama.github.io/illustrations/images/20230216_1.png
   </tr>
   <tr>
     <td>ニコニコ</td>
-    <td>[sm41805954](https://www.nicovideo.jp/watch/sm41805954)</td>
+    <td><a href="https://www.nicovideo.jp/watch/sm41805954">sm41805954</a></td>
   </tr>
   <tr>
     <td>歌詞</td>
