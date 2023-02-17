@@ -69,7 +69,10 @@ table.float-right {
 
 h2.float-right {
   width:70%;
+  height:90px;
   float:right;
+  display:flex;
+  align-items:end
 }
 
 img.float-left:hover {
