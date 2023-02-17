@@ -6,6 +6,34 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 <div class="grid">
   <div class="item">
+    <a href="music/aki54.html">
+      <img class="float-left" src="https://sueakiyama.github.io/illustrations/images/20230216_1.png" alt="春休み2週間目サムネ">
+    </a> 
+    <h2 class="float-right">春休み2週間目</h2>
+    <table class="float-left">
+      <tr>
+        <td>ID</td>
+        <td>aki54</td>
+      </tr>
+      <tr>
+        <td>作曲年</td>
+        <td>2023年2月</td>
+      </tr>
+      <tr>
+        <td>ニコニコ</td>
+        <td>[sm41805954](https://www.nicovideo.jp/watch/sm41805954)</td>
+      </tr>
+      <tr>
+        <td>歌詞</td>
+        <td>春休み2週間目、やりたいこと、たくさんあるはずなのに……</td>
+      </tr>
+      <tr>
+        <td>収録CD</td>
+        <td>なし</td>
+      </tr>
+    </table>
+  </div>
+  <div class="item">
     <a href="music/aki51.html">
       <img class="float-left" src="https://sueakiyama.github.io/images/20221227.png" alt="逆たまごかけごはんジャケット">
     </a> 
