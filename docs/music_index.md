@@ -10,25 +10,25 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       <img class="float-left" src="https://sueakiyama.github.io/illustrations/images/20230216_1.png" alt="春休み2週間目サムネ">
     </a> 
     <h2 class="float-right">春休み2週間目</h2>
-    <table class="float-left">
+    <table class="float-right">
       <tr>
-        <td>ID</td>
+        <th>ID</th>
         <td>aki54</td>
       </tr>
       <tr>
-        <td>作曲年</td>
+        <th>作曲年</th>
         <td>2023年2月</td>
       </tr>
       <tr>
-        <td>ニコニコ</td>
+        <th>ニコニコ</th>
         <td><a href="https://www.nicovideo.jp/watch/sm41805954">sm41805954</a></td>
       </tr>
       <tr>
-        <td>歌詞</td>
+        <th>歌詞</th>
         <td>春休み2週間目、やりたいこと、たくさんあるはずなのに……</td>
       </tr>
       <tr>
-        <td>収録CD</td>
+        <th>収録CD</th>
         <td>なし</td>
       </tr>
     </table>
