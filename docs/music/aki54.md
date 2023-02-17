@@ -22,7 +22,7 @@ image: https://sueakiyama.github.io/illustrations/images/20230216_1.png
   </tr>
   <tr>
     <td>歌詞</td>
-    <td>春休み2週間目、やりたいこと……</td>
+    <td>春休み2週間目 やりたいこと……</td>
   </tr>
   <tr>
     <td>収録CD</td>
