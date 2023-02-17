@@ -25,7 +25,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
       <tr>
         <th>歌詞</th>
-        <td>春休み2週間目、やりたいこと、たくさんあるはずなのに……</td>
+        <td>春休み2週間目 やりたいこと……</td>
       </tr>
       <tr>
         <th>収録CD</th>
