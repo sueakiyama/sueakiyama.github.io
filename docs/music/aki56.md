@@ -5,6 +5,7 @@ author: "秋山翠花"
 <!-- image: https://sueakiyama.github.io/illustrations/images/20230216_1.png -->
 ---
 
+<!--
 ## 基本データ
 <div class="song-block">
 <table class="float-left">
@@ -30,8 +31,8 @@ author: "秋山翠花"
   </tr>
 </table>
 
-<!-- <img class="float-right" src="https://sueakiyama.github.io/illustrations/images/20230216_1.png" alt="春休み2週間目サムネ"> -->
-</div>
+<img class="float-right" src="https://sueakiyama.github.io/illustrations/images/20230216_1.png" alt="春休み2週間目サムネ">
+</div> -->
 
 ## 歌詞
 
