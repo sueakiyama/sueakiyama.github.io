@@ -1,6 +1,5 @@
 ---
-title: "秋山翠花のリンク"
-title_for_header: "Links"
+title: "Links of Suika AKIYAMA"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 image: https://sueakiyama.github.io/thumbnail_new.png
 ---
