@@ -47,8 +47,8 @@
       {% assign date_french = date_french | append: "mars" %}
     {% when "April" %}
       {% assign date_french = date_french | append: "avril" %}
-    {% when "May" %}
-      {% assign date_french = date_french | append: "mai" %}
+    {% comment %}{% when "May" %}
+      {% assign date_french = date_french | append: "mai" %}{% endcomment %}
     {% when "June" %}
       {% assign date_french = date_french | append: "juin" %}
     {% when "July" %}
