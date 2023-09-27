@@ -79,4 +79,4 @@ feat. 初音ミク
 
 ## オフボーカル
 
-<a href="https://piapro.jp/t/yzQh">Piapro</a>
+<a href="https://piapro.jp/t/yzQh" target="_blank">Piapro</a>
