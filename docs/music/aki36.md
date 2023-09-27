@@ -2,7 +2,7 @@
 layout: category-post
 title: "忘却概論"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki36.jpeg
+image: https://sueakiyama.github.io/music/images/aki36.jpg
 ---
 
 ## 基本データ
@@ -30,7 +30,7 @@ image: https://sueakiyama.github.io/music/images/aki36.jpeg
   </tr>
 </table>
 
-<img class="float-right" src="images/aki36.jpeg" alt="忘却概論">
+<img class="float-right" src="images/aki36.jpg" alt="忘却概論">
 </div>
 
 ## 歌詞
