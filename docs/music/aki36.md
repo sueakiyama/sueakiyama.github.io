@@ -76,4 +76,4 @@ image: https://sueakiyama.github.io/music/images/aki36.jpg
 
 ## オフボーカル
 
-<a href="https://piapro.jp/t/Tu5t">Piapro</a>
+<a href="https://piapro.jp/t/Tu5t" target="_blank">Piapro</a>
