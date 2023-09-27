@@ -63,7 +63,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
   </div>
   <div class="item">
     <a href="music/aki47.html">
-      <img class="float-left" src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/41194270/41194270.3848966.original/r1280x720l?key=69d87913fbcd123b3b425d26f88e78a6b27bbc1ee99c89484a81a9a86a8b1e97" alt="逆たまごかけごはんサムネイル">
+      <img class="float-left" src="music/images/aki47.jpg" alt="逆たまごかけごはんサムネイル">
     </a> 
     <h2 class="float-right">逆たまごかけごはん</h2>
     <table class="float-right">
@@ -91,7 +91,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
   </div>
   <div class="item">
     <a href="music/aki44.html">
-      <img class="float-left" src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/41110114/41110114.12113056.original/r1280x720l?key=f54609c9499032c44a8b8b7bb8fe496664b4fa17625e59cc432c4f63c4e1caea" alt="蝉みたいに不器用でサムネイル">
+      <img class="float-left" src="music/images/aki44.jpeg" alt="蝉みたいに不器用でサムネイル">
     </a> 
     <h2 class="float-right">蝉みたいに不器用で。</h2>
     <table class="float-right">
@@ -110,6 +110,34 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       <tr>
         <th>歌詞</th>
         <td>日に焼けたアスファルトのにおいと……</td>
+      </tr>
+      <tr>
+        <th>収録CD</th>
+        <td>逆たまごかけごはん</td>
+      </tr>
+    </table>
+  </div>
+  <div class="item">
+    <a href="music/aki36.html">
+      <img class="float-left" src="music/images/aki36.jpg" alt="忘却概論サムネイル">
+    </a> 
+    <h2 class="float-right">忘却概論</h2>
+    <table class="float-right">
+      <tr>
+        <th>ID</th>
+        <td>aki36</td>
+      </tr>
+      <tr>
+        <th>作曲年</th>
+        <td>2021年7月</td>
+      </tr>
+      <tr>
+        <th>ニコニコ</th>
+        <td><a href="https://nico.ms/sm39170091">sm39170091</a></td>
+      </tr>
+      <tr>
+        <th>歌詞</th>
+        <td>ひとの名前は覚えない……</td>
       </tr>
       <tr>
         <th>収録CD</th>
