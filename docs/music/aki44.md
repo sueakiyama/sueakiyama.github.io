@@ -10,11 +10,11 @@ image: https://sueakiyama.github.io/music/images/aki44.jpeg
 <table class="float-left">
   <tr>
     <td>ID</td>
-    <td>aki47</td>
+    <td>aki44</td>
   </tr>
   <tr>
     <td>作曲年</td>
-    <td>2022年10月</td>
+    <td>2022年9月</td>
   </tr>
   <tr>
     <td>ニコニコ</td>
@@ -30,7 +30,7 @@ image: https://sueakiyama.github.io/music/images/aki44.jpeg
   </tr>
 </table>
 
-<img class="float-right" src="images/aki47.jpg" alt="逆たまごかけごはん">
+<img class="float-right" src="images/aki44.jpeg" alt="逆たまごかけごはん">
 </div>
 
 ## 歌詞
