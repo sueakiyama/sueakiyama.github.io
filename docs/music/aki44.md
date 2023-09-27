@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title: "逆たまごかけごはん"
+title: "蝉みたいに不器用で。"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki44.jpeg
 ---
