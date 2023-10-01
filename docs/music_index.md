@@ -146,40 +146,26 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     </table>
   </div>
   <div class="item">
-    <h2>逆たまごかけごはん</h2>
-    <table>
+    <a href="music/aki32.html">
+      <img class="float-left" src="music/images/aki32.jpg" alt="サイダーブルーサムネイル">
+    </a> 
+    <h2 class="float-right">サイダーブルー</h2>
+    <table class="float-right">
+      <tr>
+        <th>ID</th>
+        <td>aki32</td>
+      </tr>
       <tr>
         <th>作曲年</th>
-        <td>2022年10月</td>
+        <td>2021年4月</td>
       </tr>
       <tr>
         <th>ニコニコ</th>
-        <td>sm00000</td>
+        <td><a href="https://nico.ms/sm39170091">sm39170091</a></td>
       </tr>
       <tr>
         <th>歌詞</th>
-        <td>割れたたまごが元には戻らないように……</td>
-      </tr>
-      <tr>
-        <th>収録CD</th>
-        <td>逆たまごかけごはん</td>
-      </tr>
-    </table>
-  </div>
-  <div class="item">
-    <h2>逆たまごかけごはん</h2>
-    <table>
-      <tr>
-        <th>作曲年</th>
-        <td>2022年10月</td>
-      </tr>
-      <tr>
-        <th>ニコニコ</th>
-        <td>sm00000</td>
-      </tr>
-      <tr>
-        <th>歌詞</th>
-        <td>割れたたまごが元には戻らないように……</td>
+        <td>詩を書くのは得意じゃなくて……</td>
       </tr>
       <tr>
         <th>収録CD</th>
