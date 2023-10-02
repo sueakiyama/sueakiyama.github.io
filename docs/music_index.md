@@ -173,4 +173,32 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
     </table>
   </div>
+  <div class="item">
+    <a href="music/aki27.html">
+      <img class="float-left" src="music/images/aki27.jpg" alt="エリアメール変奏曲サムネイル">
+    </a> 
+    <h2 class="float-right">エリアメール変奏曲</h2>
+    <table class="float-right">
+      <tr>
+        <td>ID</td>
+        <td>aki27</td>
+      </tr>
+      <tr>
+        <td>作曲年</td>
+        <td>2020年10月</td>
+      </tr>
+      <tr>
+        <td>ニコニコ</td>
+        <td><a href="https://nico.ms/sm38712935">sm38712935</a></td>
+      </tr>
+      <tr>
+        <td>歌詞</td>
+        <td>ああ、聞こえない、しどけない……</td>
+      </tr>
+      <tr>
+        <td>収録CD</td>
+        <td>逆たまごかけごはん</td>
+      </tr>
+    </table>
+  </div>
 </div>
