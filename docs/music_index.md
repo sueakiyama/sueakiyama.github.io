@@ -180,23 +180,23 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <h2 class="float-right">エリアメール変奏曲</h2>
     <table class="float-right">
       <tr>
-        <td>ID</td>
+        <th>ID</th>
         <td>aki27</td>
       </tr>
       <tr>
-        <td>作曲年</td>
+        <th>作曲年</th>
         <td>2020年10月</td>
       </tr>
       <tr>
-        <td>ニコニコ</td>
+        <th>ニコニコ</th>
         <td><a href="https://nico.ms/sm38712935">sm38712935</a></td>
       </tr>
       <tr>
-        <td>歌詞</td>
+        <th>歌詞</th>
         <td>ああ、聞こえない、しどけない……</td>
       </tr>
       <tr>
-        <td>収録CD</td>
+        <th>収録CD</th>
         <td>逆たまごかけごはん</td>
       </tr>
     </table>
