@@ -201,4 +201,32 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
     </table>
   </div>
+  <div class="item">
+    <a href="music/aki26.html">
+      <img class="float-left" src="music/images/aki26.jpg" alt="日常系ヒゲンジツサムネイル">
+    </a> 
+    <h2 class="float-right">日常系ヒゲンジツ</h2>
+    <table class="float-right">
+      <tr>
+        <th>ID</th>
+        <td>aki26</td>
+      </tr>
+      <tr>
+        <th>作曲年</th>
+        <td>2020年8月</td>
+      </tr>
+      <tr>
+        <th>ニコニコ</th>
+        <td><a href="https://nico.ms/sm37384763">sm37384763</a></td>
+      </tr>
+      <tr>
+        <th>歌詞</th>
+        <td>将来の夢も展望も……</td>
+      </tr>
+      <tr>
+        <th>収録CD</th>
+        <td>逆たまごかけごはん</td>
+      </tr>
+    </table>
+  </div>
 </div>
