@@ -57,12 +57,12 @@ img.float-left {
 
 img.announce-float-left {
   float:left;
-  width:500px;
+  width:450px;
 }
 
 table.announce-float-right{
   float:right;
-  width:500px;
+  width:450px;
 }
 
 div.item h2{
