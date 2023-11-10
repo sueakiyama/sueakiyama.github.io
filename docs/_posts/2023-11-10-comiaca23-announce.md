@@ -34,7 +34,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 ## おしながき
 
 ### 新譜 (タイトル未定)
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_1.png" alt="新譜ジャケット" class="announce-float-left">
     <table class="announce-float-right">
@@ -70,7 +70,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 </div>
 
 ### 逆たまごかけごはん アレンジコンピレーション
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_2.png" alt="逆たまごかけごはん アレンジコンピレーション ジャケット" class="announce-float-left">
     <table class="announce-float-right">
@@ -107,7 +107,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 
 
 ### 100年寝たい
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_3.png" alt="100年寝たい ジャケット" class="announce-float-left">
     <table class="announce-float-right">
@@ -143,7 +143,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 </div>
 
 ### スイッチを切って
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_4.png" alt="スイッチを切って ジャケット" class="announce-float-left">
     <table class="announce-float-right">
@@ -180,7 +180,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 
 
 ### 葬式ごっこをしよう。
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_5.jpg" alt="葬式ごっこをしよう。ジャケット" class="announce-float-left">
     <table class="announce-float-right">
@@ -216,7 +216,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 </div>
 
 ### 逆たまごかけごはん
-
+___
 <div class="song-block">
     <img src="https://sueakiyama.github.io/images/20231110_6.png" alt="逆たまごかけごはん ジャケット" class="announce-float-left">
     <table class="announce-float-right">
