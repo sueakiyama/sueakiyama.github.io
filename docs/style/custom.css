@@ -57,6 +57,13 @@ img.float-left {
   position:absolute;
 }
 
+img.announce-float-left {
+  float:left;
+  width:30%;
+  height:100%;
+  position:absolute;
+}
+
 img.float-right {
   float:right;
   width:30%;
