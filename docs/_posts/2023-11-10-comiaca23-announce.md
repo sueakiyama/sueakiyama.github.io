@@ -35,11 +35,11 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 
 ### 新譜 (タイトル未定)
 
-<div class="float-right">
+<div class="float-left">
     <img src="https://sueakiyama.github.io/images/20231110_2.png" alt="新譜ジャケット">
 </div>
 
-<div class="float-left">
+<div class="float-right">
     <table>
         <thead>
             <tr>
