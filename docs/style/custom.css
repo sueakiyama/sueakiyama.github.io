@@ -62,6 +62,7 @@ img.announce-float-left {
 
 table.announce-float-right{
   float:right;
+  width:500px;
 }
 
 div.item h2{
