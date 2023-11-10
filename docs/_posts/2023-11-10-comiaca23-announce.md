@@ -24,7 +24,7 @@ ___
 | :----: | :---- |
 | 日付 | 2023年11月25日 (土)・26日 (日) |
 | 時間 | 10:00-16:00 |
-| 会場 | 東京大学駒場キャンパス<br>12号館1214教室<br>[**Google Map**](https://maps.app.goo.gl/n6EFTQgp4dpQzoyp8)<br>[**キャンパスマップ**](https://www.u-tokyo.ac.jp/campusmap/cam02_01_11_j.html) |
+| 会場 | 東京大学駒場キャンパス<br>12号館1214教室<br><a href="https://maps.app.goo.gl/n6EFTQgp4dpQzoyp8" target="_blank"><b>Google Map</b></a><br><a href="https://www.u-tokyo.ac.jp/campusmap/cam02_01_11_j.html" target="_blank"><b>キャンパスマップ</b></a> |
 | ブース | W01「逆たまごかけごはん」 |
 
 ![ブース配置](https://sueakiyama.github.io/images/20231110_7.png)
