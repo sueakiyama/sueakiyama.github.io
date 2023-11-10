@@ -42,8 +42,6 @@ div.item {
   position:relative;
 }
 
-
-
 div.item, div.item tr{
   background-color:#ddefff;
 }
@@ -64,14 +62,7 @@ img.announce-float-left {
   position:absolute;
 }
 
-img.float-right {
-  float:right;
-  width:30%;
-  height:100%;
-  object-fit:cover;
-  transition: all 1s;
-  position:absolute;
-}
+
 
 div.item h2{
   float:right;
