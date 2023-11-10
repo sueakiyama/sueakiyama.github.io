@@ -75,12 +75,6 @@ table.float-right {
   float:right;
 }
 
-table.float-left {
-  width:70%;
-  height:400px;
-  float:left;
-}
-
 h2.float-right {
   width:70%;
   height:90px;
