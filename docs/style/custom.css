@@ -132,6 +132,7 @@ img.float-right {
   }
   img.announce-float-left {
     width:100%;
+    transition: all 0.5s;
   }
   table.announce-float-right {
     width:100%;
