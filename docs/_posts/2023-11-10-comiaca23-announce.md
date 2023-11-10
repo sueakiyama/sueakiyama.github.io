@@ -36,18 +36,34 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 ### 新譜 (タイトル未定)
 
 <div class="float-right">
-
-![新譜ジャケット](images/20231110_2.png)
-
+    <img src="images/20231110_2.png" alt="新譜ジャケット">
 </div>
 
 <div class="float-left">
-
-| タイトル | (未定) |
-| :---: | :--- |
-| 価格 | 500円 |
-| 収録曲 | 1. 新曲 (aki66; 鋭意制作中) <br> 2. アンドロイドは夢を見ない (aki65) |
-| 初出 | **新譜** |
-| コメント | コミアカ用に準備しているCDです。<br>なんとかして間に合わせたいと思っています。 |
-
+    <table>
+        <thead>
+            <tr>
+                <th>タイトル</th>
+                <th>(未定)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>価格</td>
+                <td>500円</td>
+            </tr>
+            <tr>
+                <td>収録曲</td>
+                <td>1. 新曲 (aki66; 鋭意制作中) <br> 2. アンドロイドは夢を見ない (aki65)</td>
+            </tr>
+            <tr>
+                <td>初出</td>
+                <td><b>新譜</b></td>
+            </tr>
+            <tr>
+                <td>コメント</td>
+                <td>コミアカ用に準備しているCDです。<br>なんとかして間に合わせたいと思っています。</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
