@@ -182,7 +182,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 ### 葬式ごっこをしよう。
 
 <div class="song-block">
-    <img src="https://sueakiyama.github.io/images/20231110_5.png" alt="葬式ごっこをしよう。ジャケット" class="announce-float-left">
+    <img src="https://sueakiyama.github.io/images/20231110_5.jpg" alt="葬式ごっこをしよう。ジャケット" class="announce-float-left">
     <table class="announce-float-right">
         <thead>
             <tr>
