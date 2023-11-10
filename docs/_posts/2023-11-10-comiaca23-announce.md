@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title: "コミアカ23に参加します!"
-excerpt: "2023年11月25, 26日のコミアカ23に参加します!"
+excerpt: "2023年11月25, 26日のコミアカ23に参加します!!"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/images/20231110_0.png
