@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title: "コミアカ23に参加します!"
-excerpt: "2023年11月25, 26日のコミアカ23に参加します!!!"
+excerpt: "2023年11月25, 26日のコミアカ23に参加します!"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/images/20231110_0.png
@@ -26,6 +26,8 @@ ___
 | 時間 | 10:00-16:00 |
 | 会場 | 東京大学駒場キャンパス<br>12号館1214教室<br>[Google Map](https://maps.app.goo.gl/n6EFTQgp4dpQzoyp8)<br>[キャンパスマップ](https://www.u-tokyo.ac.jp/campusmap/cam02_01_11_j.html) |
 | ブース | W01「逆たまごかけごはん」 |
+
+![ブース配置](https://sueakiyama.github.io/images/20231110_7.png)
 
 ※**11月25日 (土) の 11:00-11:30** にかけて、他サークルの企画に参加するため、席を外す予定です。また、その他の時間帯も、多少は外に遊びに出ているかもしれません。  
 私が不在の時間帯も、お隣 W02 の「**東京大学作曲研究会 GCT**」さんに声をかけていただければ、CD を購入することは可能です。ただ、私も可能な限りみなさんとお会いしたいと思っているので、もし私が不在だったら、**Twitter のダイレクト・メッセージなどで呼び出してください**。すぐに行きます。  
@@ -251,6 +253,8 @@ ___
     </table>
 </div>
 
-
+## おわりに
+___
+それでは、11月25, 26日に、駒場キャンパスでお会いしましょう!　みなさんと会えるのを楽しみにしています!
 
 
