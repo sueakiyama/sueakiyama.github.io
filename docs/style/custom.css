@@ -57,9 +57,7 @@ img.float-left {
 
 img.announce-float-left {
   float:left;
-  width:30%;
-  height:100%;
-  position:absolute;
+  width:500px;
 }
 
 
