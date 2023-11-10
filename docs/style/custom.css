@@ -61,8 +61,11 @@ img.announce-float-left {
 }
 
 table.announce-float-right{
-  float:right;
   width:450px;
+}
+
+table.announce-float-right td{
+  word-wrap:anywhere;
 }
 
 div.item h2{
