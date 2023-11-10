@@ -59,7 +59,7 @@ image: https://sueakiyama.github.io/images/20231110_0.png
             </tr>
             <tr>
                 <td>コメント</td>
-                <td>コミアカ用に準備しているCDです。<br>なんとかして間に合わせたいと思っています。</td>
+                <td>コミアカ用に準備しているCDです。なんとかして間に合わせたいと思っています。</td>
             </tr>
             <tr>
                 <td>XFD</td>
