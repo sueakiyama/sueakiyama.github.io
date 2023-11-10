@@ -60,7 +60,9 @@ img.announce-float-left {
   width:500px;
 }
 
-
+table.announce-float-right{
+  float:right;
+}
 
 div.item h2{
   float:right;
