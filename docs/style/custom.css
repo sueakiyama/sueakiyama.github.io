@@ -58,6 +58,7 @@ img.float-left {
 img.announce-float-left {
   float:left;
   width:415px;
+  transition: all 0.5s;
 }
 
 table.announce-float-right{
