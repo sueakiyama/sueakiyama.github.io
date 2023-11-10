@@ -53,7 +53,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. 新曲 (aki66; 鋭意制作中) <br> 2. アンドロイドは夢を見ない (aki65)</td>
+                <td>1. 新曲 (aki66; 鋭意制作中) <br> 2. <a href="https://www.nicovideo.jp/watch/so42905119" target="_blank"><b>アンドロイドは夢を見ない (aki65)</b></a></td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -89,7 +89,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. 逆たまごかけごはん (aki47) feat. 初音ミク <br> 2. 逆たまごかけごはん (aki47) 串野とぐ子 REMIX <br> 3. 逆たまごかけごはん (aki47) feat. 可不 <br> 4. 逆たまごかけごはん (aki47) Mycelithyl REMIX feat. 重音テト <br> 5. 逆たまごかけごはん (aki47) feat. 足立レイ <br> 6. 逆たまごかけごはん (aki47) Piano ver.</td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/sm41194270" target="_blank"><b>逆たまごかけごはん (aki47) feat. 初音ミク</b></a> <br> 2. 逆たまごかけごはん (aki47) 串野とぐ子 REMIX <br> 3. 逆たまごかけごはん (aki47) feat. 可不 <br> 4. 逆たまごかけごはん (aki47) Mycelithyl REMIX feat. 重音テト <br> 5. 逆たまごかけごはん (aki47) feat. 足立レイ <br> 6. 逆たまごかけごはん (aki47) Piano ver.</td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -101,7 +101,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm42602822" target="_blank">sm42602822</a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm42602822" target="_blank"><b>sm42602822</b></a></td>
             </tr>
         </tbody>
     </table>
@@ -126,7 +126,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. 100年寝たい (aki63) <br> 2. 迷子になってみたい (aki62) <br> 3. ツイート捕食者 ツイーター (aki57) <br> 4. 春が嫌いだ! (aki55) <br> 5. 春休み2週間目 (aki54)</td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/sm42487583" target="_blank"><b>100年寝たい (aki63)</b></a> <br> 2. 迷子になってみたい (aki62) <br> 3. <a href="https://www.nicovideo.jp/watch/sm41953518" target="_blank"><b>ツイート捕食者 ツイーター (aki57)</b></a> <br> 4. <a href="https://www.nicovideo.jp/watch/sm41953427" target="_blank"><b>春が嫌いだ! (aki55)</b></a> <br> 5. <a href="https://www.nicovideo.jp/watch/sm41805954" target="_blank"><b>春休み2週間目 (aki54)</b></a></td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -138,7 +138,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm42512209" target="_blank">sm42512209</a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm42512209" target="_blank"><b>sm42512209</b></a></td>
             </tr>
         </tbody>
     </table>
@@ -162,7 +162,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. スイッチを切って (aki61) feat. 足立レイ <br> 2. 逆たまごかけごはん (aki47) feat. 足立レイ</td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/sm42577212" target="_blank"><b>スイッチを切って (aki61) feat. 足立レイ</b></a> <br> 2. 逆たまごかけごはん (aki47) feat. 足立レイ</td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -174,7 +174,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm42210529" target="_blank">sm42210529</a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm42210529" target="_blank"><b>sm42210529</b></a></td>
             </tr>
         </tbody>
     </table>
@@ -199,7 +199,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. この相矛盾した感情を。(aki56) feat. 初音ミク <br> 2. 葬式ごっこをしよう。(aki60) feat. 初音ミク <br> 3. この相矛盾した感情を。(aki56) feat. 可不</td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/sm41957061" target="_blank"><b>この相矛盾した感情を。(aki56) feat. 初音ミク</b></a> <br> 2. <a href="https://www.nicovideo.jp/watch/sm42016707" target="_blank"><b>葬式ごっこをしよう。(aki60) feat. 初音ミク</b></a> <br> 3. この相矛盾した感情を。(aki56) feat. 可不</td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -211,7 +211,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm42116155" target="_blank">sm42116155</a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm42116155" target="_blank"><b>sm42116155</b></a></td>
             </tr>
         </tbody>
     </table>
@@ -235,7 +235,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. 逆たまごかけごはん (aki47) feat. 初音ミク <br> 2. セカンドハンド・ラブストーリー (aki51) <br> 3. 蝉みたいに不器用で。(aki44) <br> 4. 夜 (aki42)  <br> 5. 忘却概論 (aki36)  <br> 6. サイダーブルー (aki32) <br> 7. エリアメール変奏曲 (aki27) <br> 8. 日常系ヒゲンジツ (aki26) <br> 9. 雨 (aki24) <br> 10. 習作 (aki9) <br> 11. 逆たまごかけごはん (aki47) feat. 可不</td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/sm41194270" target="_blank"><b>逆たまごかけごはん (aki47) feat. 初音ミク</b></a> <br> 2. セカンドハンド・ラブストーリー (aki51) <br> 3. <a href="https://www.nicovideo.jp/watch/sm41110114" target="_blank"><b>蝉みたいに不器用で。(aki44)</b></a> <br> 4. 夜 (aki42)  <br> 5. <a href="https://www.nicovideo.jp/watch/sm39170091" target="_blank"><b>忘却概論 (aki36)</b></a>  <br> 6. <a href="https://www.nicovideo.jp/watch/sm38673900" target="_blank"><b>サイダーブルー (aki32)</b></a> <br> 7. <a href="https://www.nicovideo.jp/watch/sm38712935" target="_blank"><b>エリアメール変奏曲 (aki27)</b></a> <br> 8. <a href="https://www.nicovideo.jp/watch/sm37384763" target="_blank"><b>日常系ヒゲンジツ (aki26)</b></a> <br> 9. 雨 (aki24) <br> 10. 習作 (aki9) <br> 11. 逆たまごかけごはん (aki47) feat. 可不</td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -247,7 +247,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm41553369" target="_blank">sm41553369</a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm41553369" target="_blank"><b>sm41553369</b></a></td>
             </tr>
         </tbody>
     </table>
