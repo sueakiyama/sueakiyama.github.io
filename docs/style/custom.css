@@ -130,6 +130,9 @@ img.float-right {
   img.float-right {
     width:100%;
   }
+}
+
+@media screen and (max-width:415px){
   img.announce-float-left {
     width:100%;
     transition: all 0.5s;
