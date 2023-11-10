@@ -35,7 +35,8 @@ image: https://sueakiyama.github.io/images/20231110_0.png
 
 ### 新譜 (タイトル未定)
 
-<table class="float-left">
+<img src="https://sueakiyama.github.io/images/20231110_2.png" alt="新譜ジャケット" style="width:500px;" class="float-left">
+<table class="float-right">
     <thead>
         <tr>
             <th>タイトル</th>
@@ -62,6 +63,5 @@ image: https://sueakiyama.github.io/images/20231110_0.png
     </tbody>
 </table>
 
-<div class="float-right">
-    <img src="https://sueakiyama.github.io/images/20231110_2.png" alt="新譜ジャケット">
-</div>
+
+
