@@ -85,4 +85,4 @@ image: https://sueakiyama.github.io/music/images/aki65.png
 
 ## オフボーカル
 
-<s><a href="https://piapro.jp/t/nols" target="_blank">Piapro</a></s>
+<a href="https://piapro.jp/t/nols" target="_blank">Piapro</a>
