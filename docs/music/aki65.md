@@ -2,7 +2,7 @@
 layout: category-post
 title: "アンドロイドは夢を見ない"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki65.jpg
+image: https://sueakiyama.github.io/music/images/aki65.png
 ---
 
 ## 基本データ
@@ -30,7 +30,7 @@ image: https://sueakiyama.github.io/music/images/aki65.jpg
   </tr>
 </table>
 
-<img class="float-right" src="images/aki65.jpg" alt="アンドロイドは夢を見ない サムネイル">
+<img class="float-right" src="images/aki65.png" alt="アンドロイドは夢を見ない サムネイル">
 </div>
 
 ## 歌詞
