@@ -9,7 +9,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
     <a href="music/aki65.html">
       <img class="float-left" src="https://sueakiyama.github.io/music/images/aki65.png" alt="アンドロイドは夢を見ない サムネ">
     </a> 
-    <h2 class="float-right">アンドロイドは夢を見ない</h2>
+    <h2 class="float-right" style="font-size:26px;">アンドロイドは夢を見ない</h2>
     <table class="float-right">
       <tr>
         <th>ID</th>
