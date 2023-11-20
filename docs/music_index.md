@@ -6,6 +6,34 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 <div class="grid">
   <div class="item">
+    <a href="music/aki65.html">
+      <img class="float-left" src="https://sueakiyama.github.io/music/images/aki65.png" alt="アンドロイドは夢を見ない サムネ">
+    </a> 
+    <h2 class="float-right">アンドロイドは夢を見ない</h2>
+    <table class="float-right">
+      <tr>
+        <th>ID</th>
+        <td>aki65</td>
+      </tr>
+      <tr>
+        <th>作曲年</th>
+        <td>2023年10月</td>
+      </tr>
+      <tr>
+        <th>ニコニコ</th>
+        <td><a href="https://www.nicovideo.jp/watch/sm43048884">sm43048884</a></td>
+      </tr>
+      <tr>
+        <th>歌詞</th>
+        <td>夜が来て、目を閉じても……</td>
+      </tr>
+      <tr>
+        <th>収録CD</th>
+        <td>アンドロイドは夢を見ない</td>
+      </tr>
+    </table>
+  </div>
+  <div class="item">
     <a href="music/aki54.html">
       <img class="float-left" src="https://sueakiyama.github.io/illustrations/images/20230216_1.png" alt="春休み2週間目サムネ">
     </a> 
@@ -29,7 +57,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
       <tr>
         <th>収録CD</th>
-        <td>なし</td>
+        <td>100年寝たい</td>
       </tr>
     </table>
   </div>
