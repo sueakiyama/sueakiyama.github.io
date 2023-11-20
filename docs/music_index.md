@@ -29,7 +29,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
       </tr>
       <tr>
         <th>収録CD</th>
-        <td>アンドロイドは夢を見ない</td>
+        <td style="font-size:15px;">アンドロイドは夢を見ない</td>
       </tr>
     </table>
   </div>
