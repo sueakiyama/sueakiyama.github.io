@@ -18,7 +18,7 @@ image: https://sueakiyama.github.io/music/images/aki65.png
   </tr>
   <tr>
     <td>ニコニコ</td>
-    <td><s><a href="https://nico.ms/sm37384763">sm37384763</a></s></td>
+    <td><a href="https://nico.ms/sm43048884">sm43048884</a></td>
   </tr>
   <tr>
     <td>歌詞</td>
@@ -81,8 +81,8 @@ image: https://sueakiyama.github.io/music/images/aki65.png
 
 ## 試聴
 
-
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm43048884/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm43048884">アンドロイドは夢を見ない feat. 足立レイ (aki65)</a></noscript>
 
 ## オフボーカル
 
-<s><a href="https://piapro.jp/t/1iOY" target="_blank">Piapro</a></s>
+<s><a href="https://piapro.jp/t/nols" target="_blank">Piapro</a></s>
