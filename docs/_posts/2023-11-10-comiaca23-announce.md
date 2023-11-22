@@ -38,7 +38,7 @@ ___
 ### アンドロイドは夢を見ない
 
 <div class="song-block">
-    <img src="https://sueakiyama.github.io/images/20231110_0.png" alt="アンドロイドは夢を見ない ジャケット" class="announce-float-left">
+    <img src="https://sueakiyama.github.io/images/20231110_05.png" alt="アンドロイドは夢を見ない ジャケット" class="announce-float-left">
     <table class="announce-float-right">
         <thead>
             <tr>
