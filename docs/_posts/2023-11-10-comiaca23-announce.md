@@ -30,20 +30,20 @@ ___
 ![ブース配置](https://sueakiyama.github.io/images/20231110_7.png)
 
 ※**11月25日 (土) の 11:00-11:30** にかけて、他サークルの企画に参加するため、席を外す予定です。また、**11月25日 (土) の 13:30-14:15** には、[合成音声愛好会の DJ イベント](https://twitter.com/ut_synth_voice/status/1723671990559752206) (@1号館156教室) に参加します。  
-私が不在の時間帯も、お隣 W02 の「**東京大学作曲研究会 GCT**」さんに声をかけていただければ、CD を購入することは可能です。ただ、私も可能な限りみなさんとお会いしたいと思っているので、もし私が不在だったら、**Twitter のダイレクト・メッセージなどで呼び出してください**。すぐに行きます。  
+可能な限りみなさんとお会いしたいと思っているので、もし私が不在だったら、**Twitter のダイレクト・メッセージなどで呼び出してください**。すぐに行きます。  
 あと、フォロワーさんはぜひ**名乗ってくださいね**!　私が嬉しいので。
 
 ## おしながき
 ___
-### 新譜 (タイトル未定)
+### アンドロイドは夢を見ない
 
 <div class="song-block">
-    <img src="https://sueakiyama.github.io/images/20231110_1.png" alt="新譜ジャケット" class="announce-float-left">
+    <img src="https://sueakiyama.github.io/images/20231110_0.png" alt="アンドロイドは夢を見ない ジャケット" class="announce-float-left">
     <table class="announce-float-right">
         <thead>
             <tr>
                 <th>タイトル</th>
-                <th>(未定)</th>
+                <th>アンドロイドは夢を見ない</th>
             </tr>
         </thead>
         <tbody>
@@ -53,7 +53,7 @@ ___
             </tr>
             <tr>
                 <td>収録曲</td>
-                <td>1. 新曲 (aki66; 鋭意制作中) <br> 2. <a href="https://www.nicovideo.jp/watch/so42905119" target="_blank"><b>アンドロイドは夢を見ない (aki65)</b></a></td>
+                <td>1. <a href="https://www.nicovideo.jp/watch/so42905119" target="_blank"><b>アンドロイドは夢を見ない (aki65)</b></a><br>2. 鏡のなかの (aki66)</td>
             </tr>
             <tr>
                 <td>初出</td>
@@ -61,11 +61,11 @@ ___
             </tr>
             <tr>
                 <td>コメント</td>
-                <td>コミアカ用に準備しているCDです。なんとかして間に合わせたいと思っています。</td>
+                <td>最近作った曲を2曲入れました。ちょっと暗めの CD です。</td>
             </tr>
             <tr>
                 <td>XFD</td>
-                <td>(準備中)</td>
+                <td><a href="https://www.nicovideo.jp/watch/sm43052742" target="_blank"><b>sm43052742</b></a></td>
             </tr>
         </tbody>
     </table>
