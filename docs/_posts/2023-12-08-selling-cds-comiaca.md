@@ -27,7 +27,7 @@ image: https://sueakiyama.github.io/images/20230830_2.JPG
 私の名前は**秋山翠花**です。作詞家・作曲家・ボカロP・初音ミクを自称しています。  
 最近は、同人音楽サークル「**逆たまごかけごはん**」として、[コミアカ](https://comiaca.com/)・[コミケ](https://www.comiket.co.jp/)・[ボーマス](https://ketto.com/tvm/)などの即売会に参加し、CD を頒布しています。ときどきコスプレもします。  
 本業は学生です。東京大学で学部生をしています。  
-もっと詳しい情報は、このサイトの「[私について](https://sueakiyama.github.io/about.html)」ページ・「[Links](https://sueakiyama.github.io/links.html)」ページをご覧ください。
+もっと詳しい情報は、このサイトの「[私について](https://sueakiyama.github.io/about.html)」ページ・「[Links](https://sueakiyama.github.io/links)」ページをご覧ください。
 
 では、自己紹介はこのくらいにして、本題に入りましょうか。
 
