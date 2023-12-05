@@ -4,7 +4,7 @@ title: "即売会でCDを売ろう! 前編"
 excerpt: "即売会参加のメリット・デメリットとは。二部構成の記事の前編です。"
 description: "即売会参加のメリット・デメリットとは。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/images/20230830_2.JPG
+image: https://sueakiyama.github.io/thumbnail_new.png
 ---
 
 <style>
