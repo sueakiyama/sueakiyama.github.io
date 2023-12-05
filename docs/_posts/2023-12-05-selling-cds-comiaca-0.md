@@ -8,7 +8,7 @@ image: https://sueakiyama.github.io/images/20230830_2.JPG
 ---
 
 <style>
-  h4, h5{
+  h3, h4, h5{
     text-decoration:underline;
   }
 </style>
