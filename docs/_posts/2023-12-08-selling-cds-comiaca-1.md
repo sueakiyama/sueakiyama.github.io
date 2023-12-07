@@ -1,4 +1,4 @@
-![ジャケット_印刷用_new_new](https://github.com/sueakiyama/sueakiyama.github.io/assets/101383574/b22ac7a2-ee36-4523-84db-2170f0df07f7)---
+---
 layout: category-post
 title: "即売会でCDを売ろう! 後編"
 excerpt: "逆たまごかけごはんの制作風景をお見せします。二部構成の記事の後編です。"
