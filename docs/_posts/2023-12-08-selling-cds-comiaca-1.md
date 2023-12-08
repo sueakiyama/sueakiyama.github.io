@@ -4,7 +4,7 @@ title: "即売会でCDを売ろう! 後編"
 excerpt: "逆たまごかけごはんの制作風景をお見せします。二部構成の記事の後編です。"
 description: "逆たまごかけごはんの制作風景をお見せします。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/thumbnail_new.png
+image: https://sueakiyama.github.io/images/20231208_12.jpg
 ---
 
 <style>
