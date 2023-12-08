@@ -132,7 +132,7 @@ GIMPで制作した、レーベル印刷用のファイルです。まだ正方�
 ![Studio One で CD を焼こうとしている様子](https://sueakiyama.github.io/images/20231208_15.png)  
 Studio One を使っている様子。
 
-
+そこで、みなさんに、便利なフリーソフトをご紹介…… Studio One Professional を購入する前、私は基本的に [Burnaware Free](https://www.burnaware.com/) を使っていました。先にご紹介した Studio One と違い、前もって音声ファイルを用意しておく必要はありますが、まあ無料なので……
 
 ## 注釈
 ___
