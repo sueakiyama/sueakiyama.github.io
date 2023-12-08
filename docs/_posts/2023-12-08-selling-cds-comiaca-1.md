@@ -110,9 +110,11 @@ C103サクカ。「[100年寝たい](https://www.nicovideo.jp/watch/sm42487583)�
 
 レーベルの印刷は、かなりの正確性が求められるので、お持ちのプリンターの純正 (?) 印刷ソフトを使うのがおすすめです。私のプリンターは Canon 製なので、レーベル印刷には [Canon Easy-PhotoPrint Editor](https://ij.manual.canon/ij/webmanual/WebPortal/PTA/pta_app_intro.html?app=epe&lng=jp&type=app-gd2) を使っています。正直言って、画像編集等の操作性は~~カス~~独特なので、例えば GIMP などのちゃんとした画像編集ソフトでレーベルのデザインを行い、Easy-PhotoPring Editor は最終工程 (印刷) のみに用いるとよさそうです。
 
-![レーベルのファイル。GIMPで編集](https://sueakiyama.github.io/images/20231208_10.png)  
+![レーベルのファイル GIMPで編集](https://sueakiyama.github.io/images/20231208_10.png)  
 GIMPで制作した、レーベル印刷用のファイルです。まだ正方形です。
 
+![レーベルのファイル 印刷前](https://sueakiyama.github.io/images/20231208_11.png)  
+先ほどのファイルを、Canon Easy-PhotoPrint Editor に入れたものです。これが完成品の大まかなイメージとなります。
 
 
 ## 注釈
