@@ -84,4 +84,4 @@ Firefox の優れた点として、~~Google傘下でないこと~~ 多くのア�
 
 私に投げ銭したい、という稀有な方は、代わりにこちらへ募金しておいてください。
 
-- [[令和6年能登半島地震 緊急支援募金（Yahoo!基金）]](https://donation.yahoo.co.jp/detail/1630064/)
+- [令和6年能登半島地震 緊急支援募金（Yahoo!基金）](https://donation.yahoo.co.jp/detail/1630064/)
