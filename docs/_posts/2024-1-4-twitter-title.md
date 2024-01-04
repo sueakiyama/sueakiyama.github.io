@@ -77,3 +77,9 @@ Firefox の優れた点として、~~Google傘下でないこと~~ 多くのア�
 
 - [サルにもわかる正規表現入門](https://userweb.mnet.ne.jp/nakama/)
 - [正規表現あれこれ | Qiita](https://qiita.com/ikedams/items/12d1127056cdf4f0eea5)
+
+## 投げ銭にかえて
+
+私に投げ銭したい、という稀有な方は、代わりにこちらへ募金しておいてください。
+
+- [[令和6年能登半島地震 緊急支援募金（Yahoo!基金）]](https://donation.yahoo.co.jp/detail/1630064/)
