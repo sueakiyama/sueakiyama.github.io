@@ -27,7 +27,7 @@ image: https://sueakiyama.github.io/images/20230830_2.JPG
 
 ![タブの幅が狭い場合](https://sueakiyama.github.io/images/20240104_1.png)  
 
-**「Xユーザー」しか見えないんだが!?**
+**「Xユー」しか見えないんだが!?**
 
 X (Twitter) ユーザーなのはアイコンで分かるので、「Xユーザー」というのは一番要らない情報なんですが、なぜかこれだけ表示される状態になっています。最悪ですね。
 
@@ -42,11 +42,15 @@ Firefox の優れた点として、~~Google傘下でないこと~~ 多くのア�
 今回も、こうしたアドオンを活用していきます。今回使ったのは Tab Retitle というアドオン。タブの名前を変更してくれます。正規表現も使えます。やったね。
 
 - [Tab Retitle (Firefox Browser Add-ons)](https://addons.mozilla.org/ja/firefox/addon/tab-retitle/)
-- [Tab Retitle (chromeウェブストア)](https://chromewebstore.google.com/detail/tab-retitle/hilgambgdpjgljhjdaccadahckpdiapo) ←Chrome版もありました……
+- [Tab Retitle (chromeウェブストア)](https://chromewebstore.google.com/detail/tab-retitle/hilgambgdpjgljhjdaccadahckpdiapo) ←Chrome版もありました……泣
 
 これを使って、Twitterのタブ・タイトルを「(ユーザー名)『(ツイート内容)』」にしていこうと思います。
 
+### 手順
 
-
+1. まず、アドオンをインストールします。
+2. アドオンの管理ページ (Firefox なら、```about:addons```) に移動し、"Tab ReTitle"→「オプション」→"ADVANCED"→"Beta Feature: Add Your Own URL Pattern"に進みます。
+![設定画面](https://sueakiyama.github.io/images/20240104_2.png)  
+3. 設定画面の"URL Pattern"に```*twitter\.com/.*/status/.*```と入力、"New Title"に```/Xユーザーの(.*)さん:(.*)|.*/$1$2/```と入力する。
 
 
