@@ -72,3 +72,8 @@ Firefox の優れた点として、~~Google傘下でないこと~~ 多くのア�
 ## おわりに
 
 こんなことしてる暇があったらコミケレポを書けって?　うるせえ! 泣
+
+## 参考文献
+
+- [サルにもわかる正規表現入門](https://userweb.mnet.ne.jp/nakama/)
+- [正規表現あれこれ | Qiita](https://qiita.com/ikedams/items/12d1127056cdf4f0eea5)
