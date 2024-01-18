@@ -19,3 +19,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 - **Misskey.io**: [MTDTR_tk@misskey.io](https://misskey.io/@MTDTR_tk)
 - **Niconico**: [すー/秋山翠花](https://www.nicovideo.jp/user/97810681/video)
 - **Youtube**: [すー](https://www.youtube.com/@user-uu7me5ub9d)
+
+## 相互リンク!
+
+<iframe src="parts/banner.html" scrolling="no" frameborder="0" width="200" height="40"></iframe>
