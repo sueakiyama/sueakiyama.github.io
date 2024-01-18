@@ -22,4 +22,4 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 ## 相互リンク!
 
-<iframe src="https://charlotteace.github.io/parts/banner.html" scrolling="no" frameborder="0" width="200" height="100"></iframe>
+<iframe src="https://charlotteace.github.io/parts/banner.html" scrolling="no" frameborder="0" width="200" height="120"></iframe>
