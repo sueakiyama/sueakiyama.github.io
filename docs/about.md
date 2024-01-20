@@ -15,14 +15,15 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 - **Autres Mots-clés**: Piano🎹, Composition🎼, Vocaloid, HATSUNE Miku, Cosplay, *Niconico*, *Onimai*, *Otokonoko*.
 
 ## Les Réseaux Sociaux
-- **Twitter (Compte Principal)**: [@MTDTR_tk](https://twitter.com/MTDTR_tk)
-- **Misskey.io**: [MTDTR_tk@misskey.io](https://misskey.io/@MTDTR_tk)
+- **Twitter**: [@MTDTR_tk](https://twitter.com/MTDTR_tk)
 - **Niconico**: [すー/秋山翠花](https://www.nicovideo.jp/user/97810681/video)
-- **Youtube**: [すー](https://www.youtube.com/@user-uu7me5ub9d)
+- **Youtube**: [すー](https://www.youtube.com/@suikaVocalo)
+- **Misskey.io**: [MTDTR_tk@misskey.io](https://misskey.io/@MTDTR_tk)
+- **Discord**: ```suika_akiyama```
 
 ## 相互リンク!
 
 - <iframe src="https://charlotteace.github.io/parts/banner.html" scrolling="no" frameborder="0" width="200" height="120"></iframe>
 - [ふぁぼんのホームページ](https://fabon.info)
-- [comph-note](https://comphand.pages.dev/)
+- [comph-note](https://comphand.pages.dev)
 
