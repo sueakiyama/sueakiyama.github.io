@@ -7,6 +7,7 @@ akiId: aki26
 postTime: "2020年8月"
 nicoId: sm37384763
 youtubeId: ZepoDrofPjI
+piaproId: 1iOY
 lyric: "将来の夢も展望も……"
 songIn: "逆たまごかけごはん"
 ---
