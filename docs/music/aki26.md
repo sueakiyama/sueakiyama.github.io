@@ -1,8 +1,13 @@
 ---
-layout: category-post
+layout: category-music
 title: "日常系ヒゲンジツ"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki26.jpg
+akiId: aki26
+postTime: "2020年8月"
+nicoId: sm37384763
+lyric: "将来の夢も展望も……"
+songIn: "逆たまごかけごはん"
 ---
 
 ## 基本データ
