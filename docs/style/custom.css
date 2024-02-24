@@ -107,7 +107,9 @@ img.float-right {
   width:500px;
 }
 
-
+article a {
+  color: #E74727;
+}
 
 @media screen and (max-width:500px){
   .grid{
