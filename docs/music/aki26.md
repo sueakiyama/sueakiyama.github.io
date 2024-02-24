@@ -66,9 +66,4 @@ songIn: "逆たまごかけごはん"
 だってそうでしょう?  
 わかってよ。
 
-## 試聴
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm37384763/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm37384763">[ミクオリジナル]日常系ヒゲンジツ</a></noscript>
-
-## オフボーカル
-
 <a href="https://piapro.jp/t/1iOY" target="_blank">Piapro</a>
