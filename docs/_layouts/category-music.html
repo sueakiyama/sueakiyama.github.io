@@ -41,6 +41,14 @@ layout: default
     </div>
     
       {{ content }}
+
+    ## 試聴
+    <script type="application/javascript" src="https://embed.nicovideo.jp/watch/{{ page.nicoId }}/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/{{ page.nicoId }}">{{ page.title }}</a></noscript>
+
+    ## 各種リンク
+    - ニコニコ: [https://nico.ms/{{ page.nicoId }}](https://nico.ms/{{ page.nicoId }})
+    - Youtube: [https://youtu.be/{{ page.youtubeId }}](https://youtu.be/{{ page.youtubeId }})
+    - SoundCloud: [https://soundcloud.com/sueakiyama/{{ page.akiId }}](https://soundcloud.com/sueakiyama/{{ page.akiId }})
   </div>
 
 </article>
