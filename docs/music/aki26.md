@@ -69,6 +69,8 @@ songIn: "逆たまごかけごはん"
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm37384763/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm37384763">[ミクオリジナル]日常系ヒゲンジツ</a></noscript>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZepoDrofPjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## オフボーカル
 
 <a href="https://piapro.jp/t/1iOY" target="_blank">Piapro</a>
