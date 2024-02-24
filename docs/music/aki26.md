@@ -6,37 +6,10 @@ image: https://sueakiyama.github.io/music/images/aki26.jpg
 akiId: aki26
 postTime: "2020年8月"
 nicoId: sm37384763
+youtubeId: ZepoDrofPjI
 lyric: "将来の夢も展望も……"
 songIn: "逆たまごかけごはん"
 ---
-
-## 基本データ
-<div class="song-block">
-<table class="float-left">
-  <tr>
-    <td>ID</td>
-    <td>aki26</td>
-  </tr>
-  <tr>
-    <td>作曲年</td>
-    <td>2020年8月</td>
-  </tr>
-  <tr>
-    <td>ニコニコ</td>
-    <td><a href="https://nico.ms/sm37384763">sm37384763</a></td>
-  </tr>
-  <tr>
-    <td>歌詞</td>
-    <td>将来の夢も展望も……</td>
-  </tr>
-  <tr>
-    <td>収録CD</td>
-    <td>逆たまごかけごはん</td>
-  </tr>
-</table>
-
-<img class="float-right" src="images/aki26.jpg" alt="日常系ヒゲンジツサムネイル">
-</div>
 
 ## 歌詞
 
