@@ -66,5 +66,3 @@ songIn: "逆たまごかけごはん"
 わからないよ。  
 だってそうでしょう?  
 わかってよ。
-
-<a href="https://piapro.jp/t/1iOY" target="_blank">Piapro</a>
