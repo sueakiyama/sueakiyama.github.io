@@ -8,6 +8,7 @@ postTime: "2020年10月"
 nicoId: sm38712935
 youtubeId: DjzKZU856UU
 piaproId: CYkv
+bilibiliId: BV13v421k7Z8
 lyric: "ああ、聞こえない、しどけない……"
 songIn: "逆たまごかけごはん"
 ---
