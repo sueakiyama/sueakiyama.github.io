@@ -8,6 +8,7 @@ postTime: "2020年8月"
 nicoId: sm37384763
 youtubeId: ZepoDrofPjI
 piaproId: 1iOY
+bilibiliId: BV13v421k7Z8
 lyric: "将来の夢も展望も……"
 songIn: "逆たまごかけごはん"
 ---
