@@ -3,6 +3,10 @@ layout: category-post
 title: "セカンドハンド・ラブストーリー"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/images/20221227.png
+postTime: "2022年12月"
+nicoId: "なし"
+lyric: "「すき」とか「愛してる」とか……"
+songIn: "逆たまごかけごはん"
 ---
 
 ## 基本データ
