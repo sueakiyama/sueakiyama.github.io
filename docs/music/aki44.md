@@ -3,35 +3,13 @@ layout: category-post
 title: "蝉みたいに不器用で。"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki44.jpeg
+postTime: "2022年9月"
+nicoId: sm41110114
+youtubeId: _iauTgNiBd8
+piaproId: yzQh
+lyric: "日に焼けたアスファルトのにおいと……"
+songIn: "逆たまごかけごはん"
 ---
-
-## 基本データ
-<div class="song-block">
-<table class="float-left">
-  <tr>
-    <td>ID</td>
-    <td>aki44</td>
-  </tr>
-  <tr>
-    <td>作曲年</td>
-    <td>2022年9月</td>
-  </tr>
-  <tr>
-    <td>ニコニコ</td>
-    <td><a href="https://nico.ms/sm41110114">sm41110114</a></td>
-  </tr>
-  <tr>
-    <td>歌詞</td>
-    <td>日に焼けたアスファルトのにおいと……</td>
-  </tr>
-  <tr>
-    <td>収録CD</td>
-    <td>逆たまごかけごはん</td>
-  </tr>
-</table>
-
-<img class="float-right" src="images/aki44.jpeg" alt="逆たまごかけごはん">
-</div>
 
 ## 歌詞
 
@@ -72,11 +50,3 @@ image: https://sueakiyama.github.io/music/images/aki44.jpeg
 生きられなさそうなきみが、  
 そんなこと言うなんてさ。
 
-## 試聴
-
-feat. 初音ミク  
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm41110114/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm41110114">[ミクオリジナル] 蝉みたいに不器用で。 (aki44)</a></noscript>
-
-## オフボーカル
-
-<a href="https://piapro.jp/t/yzQh" target="_blank">Piapro</a>
