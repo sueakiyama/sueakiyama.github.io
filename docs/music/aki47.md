@@ -3,6 +3,11 @@ layout: category-post
 title: "逆たまごかけごはん"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki47.jpg
+postTime: "2022年10月"
+nicoId: sm41194270
+youtubeId: BAAlqITPHXE
+lyric: "割れたたまごが元には戻らないように……"
+songIn: "逆たまごかけごはん"
 ---
 
 ## 基本データ
