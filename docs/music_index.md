@@ -5,14 +5,18 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 ---
 
 <!-- Auto-List Test -->
-
+<table>
 {% assign doclist = site.pages | sort: 'url' %}
   {% for doc in doclist %}
     {% if doc.url contains 'music/' %}
-      {{ doc.title }}
+        <tr>
+          <th>{{ doc.title }}</th>
+          <td>{{ doc.url }}</td>
+        </tr>
     {% endif %}
   {% endfor %}
 
+</table>
 <!-- Auto-List Test End -->
 
 <div class="grid">
