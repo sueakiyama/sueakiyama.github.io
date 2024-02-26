@@ -3,6 +3,12 @@ layout: category-post
 title: "春休み2週間目"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/illustrations/images/20230216_1.png
+postTime: "2023年2月"
+nicoId: sm41805954
+youtubeId: 593qN--xILA
+piaproId: yzQh
+lyric: "春休み2週間目 やりたいこと……"
+songIn: "100年寝たい"
 ---
 
 ## 基本データ
@@ -26,7 +32,7 @@ image: https://sueakiyama.github.io/illustrations/images/20230216_1.png
   </tr>
   <tr>
     <td>収録CD</td>
-    <td>なし</td>
+    <td>100年寝たい</td>
   </tr>
 </table>
 
