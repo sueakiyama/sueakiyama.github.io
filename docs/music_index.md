@@ -8,9 +8,9 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 {% assign doclist = site.pages | sort: 'url' %}
   {% for doc in doclist %}
-    {& if doc.url contains 'music/' &}
+    {% if doc.url contains 'music/' %}
       [{{ doc.name }}]({{ site.baseurl }}{{ doc.url }})
-    {& endif &}
+    {% endif %}
   {% endfor %}
 
 <!-- Auto-List Test End -->
