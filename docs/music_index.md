@@ -4,6 +4,17 @@ title_for_header: "Musique"
 description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
 ---
 
+<!-- Auto-List Test -->
+
+{% assign doclist = site.pages | sort: 'url' %}
+  {% for doc in doclist %}
+    {& if doc.url contains 'music/' &}
+      [{{ doc.name }}]({{ site.baseurl }}{{ doc.url }})
+    {& endif &}
+  {% endfor %}
+
+<!-- Auto-List Test End -->
+
 <div class="grid">
   <div class="item">
     <a href="music/aki65.html">
