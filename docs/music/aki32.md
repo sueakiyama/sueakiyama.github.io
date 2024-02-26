@@ -1,37 +1,15 @@
 ---
-layout: category-post
+layout: category-music
 title: "サイダーブルー"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki32.jpg
+postTime: "2021年4月"
+nicoId: sm38673900
+youtubeId: ZepoDrofPjI
+piaproId: S-jv
+lyric: "詩を書くのは得意じゃなくて……"
+songIn: "逆たまごかけごはん"
 ---
-
-## 基本データ
-<div class="song-block">
-<table class="float-left">
-  <tr>
-    <td>ID</td>
-    <td>aki32</td>
-  </tr>
-  <tr>
-    <td>作曲年</td>
-    <td>2021年4月</td>
-  </tr>
-  <tr>
-    <td>ニコニコ</td>
-    <td><a href="https://nico.ms/sm38673900">sm38673900</a></td>
-  </tr>
-  <tr>
-    <td>歌詞</td>
-    <td>詩を書くのは得意じゃなくて……</td>
-  </tr>
-  <tr>
-    <td>収録CD</td>
-    <td>逆たまごかけごはん</td>
-  </tr>
-</table>
-
-<img class="float-right" src="images/aki32.jpg" alt="サイダーブルーサムネイル">
-</div>
 
 ## 歌詞
 
@@ -64,11 +42,3 @@ image: https://sueakiyama.github.io/music/images/aki32.jpg
 きみの心みたいにつめたくて、  
 沈むぼくを、感じる前に、  
 コップの底に、消えたんだ。
-
-## 試聴
-
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38673900/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38673900">[ミクオリジナル]サイダーブルー(aki32)</a></noscript>
-
-## オフボーカル
-
-<a href="https://piapro.jp/t/S-jv" target="_blank">Piapro</a>
