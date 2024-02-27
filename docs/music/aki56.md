@@ -2,7 +2,13 @@
 layout: category-post
 title: "この相矛盾した感情を"
 author: "秋山翠花"
-<!-- image: https://sueakiyama.github.io/illustrations/images/20230216_1.png -->
+image: https://sueakiyama.github.io/music/images/aki56.jpg
+postTime: "2023年3月"
+nicoId: sm41957061
+youtubeId: LT-KykSkFRI
+piaproId: 1iOY
+lyric: "きみの絵をひさしぶりに見かけた……"
+songIn: "葬式ごっこをしよう。"
 ---
 
 <!--
