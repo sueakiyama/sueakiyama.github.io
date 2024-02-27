@@ -10,7 +10,7 @@
         {% if my_page.title_for_header %}
           {% unless my_page.title_for_header == "ACCUEIL" or my_page.title_for_header == "Links" or my_page.redirect %}
             <li class="inline-block">
-              <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
+              <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | remove: '.html' | prepend: site.baseurl }}">
                 {{ my_page.title_for_header }}
               </a>
             </li>
