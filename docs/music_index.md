@@ -7,7 +7,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 <!-- Auto-List Test -->
 <div class="grid">
   
-{% assign doclist = site.pages | sort: 'url' %}
+{% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
     {% if doc.url contains 'music/' %}
       <div class="item">
