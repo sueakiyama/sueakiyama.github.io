@@ -11,7 +11,7 @@ description: "楽曲リスト"
   {% for doc in doclist %}
     {% if doc.url contains 'music/' %}
       <div class="item">
-        <a href="{{ doc.url }}">
+        <a href="{{ doc.url | remove: '.html' }}">
           <img class="float-left" src="{{ doc.image }}" alt="{{ doc.title }} サムネ">
         </a> 
         <h2 class="float-right" style="font-size:26px;">{{ doc.title }}</h2>
