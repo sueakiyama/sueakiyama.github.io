@@ -2,11 +2,11 @@
 layout: category-music
 title: "スーパードラゴンちせ19歳"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki76.jpg
+image: https://sueakiyama.github.io/music/images/aki76.png
 postTime: "2024年3月"
 nicoId: sm0
 youtubeId: UEN-PZdLXXQ 
-piaproId: 0
+piaproId: BCgl
 bilibiliId: 0
 lyric: "グレーの髪に、オレンジのハイライト……"
 songIn: "CD未収録"
