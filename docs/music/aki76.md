@@ -7,7 +7,7 @@ postTime: "2024年3月"
 nicoId: sm0
 youtubeId: UEN-PZdLXXQ 
 piaproId: BCgl
-bilibiliId: 0
+bilibiliId: BV16H4y1p7nR
 lyric: "グレーの髪に、オレンジのハイライト……"
 songIn: "CD未収録"
 ---
