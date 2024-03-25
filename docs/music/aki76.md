@@ -4,7 +4,7 @@ title: "スーパードラゴンちせ19歳"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki76.png
 postTime: "2024年3月"
-nicoId: sm0
+nicoId: sm43575329
 youtubeId: UEN-PZdLXXQ 
 piaproId: BCgl
 bilibiliId: BV16H4y1p7nR
