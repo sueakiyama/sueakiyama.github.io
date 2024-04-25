@@ -1,33 +1,67 @@
 ---
 layout: category-post
-title: "C103に参加します!"
-excerpt: "2023年12月30日のC103に参加します!"
-description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>Le Site Web de Suika Akiyama</u></a>"
+title: "超ボーマス55に参加します!"
+excerpt: "2024年4月27日の超ボーマス55に参加します!"
+description: "2024年4月27日の超ボーマス55に参加します!"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/images/20231227_0.png
+image: https://sueakiyama.github.io/images/20240425_0.png
 ---
 
-![C103サクカ](https://sueakiyama.github.io/images/20231227_0.png)
+![超ボーマス55サクカ](https://sueakiyama.github.io/images/20240425_0.png)
 
 ## はじめに
 ___
 こんにちは、秋山翠花です。  
-12月30日に、同人誌即売会「[**コミックマーケット103**](https://www.comiket.co.jp/info-a/index.html)」へ参加します!
+4月27日に、同人誌即売会「[**THE VOC@LOiD 超 M@STER55**](https://ketto.com/tvm/)」へ参加します!
 
 ## 基本データ
 ___
 
 | イベント名 | コミックマーケット103 |
 | :----: | :---- |
-| 日付 | 2023年12月30日 (土) |
-| 時間 | 10:30-16:00 |
-| 会場 | 東京ビッグサイト |
-| ブース | 東ソ15a「逆たまごかけごはん」 |
-
-![ブース配置](https://sueakiyama.github.io/images/20231227_1.png)
+| 日付 | 2023年4月27日 (土) |
+| 時間 | 10:00-17:00 |
+| 会場 | 幕張メッセ |
+| ブース | D10「逆たまごかけごはん」 |
 
 ## おしながき
 ___
+### スーパードラゴンちせ19歳
+
+<div class="song-block">
+    <img src="https://sueakiyama.github.io/images/20240425_1.png" alt="スーパードラゴンちせ19歳 ジャケット" class="announce-float-left">
+    <table class="announce-float-right">
+        <thead>
+            <tr>
+                <th>タイトル</th>
+                <th>スーパードラゴンちせ19歳</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>価格</td>
+                <td>500円</td>
+            </tr>
+            <tr>
+                <td>収録曲</td>
+                <td>1. スーパードラゴンちせ19歳 (aki76) feat. 知声<br>2. アイスとメロンソーダ (aki79) feat. 知声<br>3. 春が嫌いだ! (aki55) feat. 知声, ずんだもん</td>
+            </tr>
+            <tr>
+                <td>初出</td>
+                <td><b>新譜</b></td>
+            </tr>
+            <tr>
+                <td>コメント</td>
+                <td>ちせドラゴン大好きすぎる　すみません、ちせドラゴンが大好きすぎるのですが</td>
+            </tr>
+            <tr>
+                <td>XFD</td>
+                <td><a href="https://nico.ms/sm43693846" target="_blank"><b>sm43693846</b></a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 ### きみを歌う
 
 <div class="song-block">
@@ -50,7 +84,7 @@ ___
             </tr>
             <tr>
                 <td>初出</td>
-                <td><b>新譜</b></td>
+                <td><b>C103 (2023.12.30)</b></td>
             </tr>
             <tr>
                 <td>コメント</td>
@@ -86,7 +120,7 @@ ___
             </tr>
             <tr>
                 <td>初出</td>
-                <td><b>コミアカ23</b></td>
+                <td><b>コミアカ23 (2023.11.25, 26)</b></td>
             </tr>
             <tr>
                 <td>コメント</td>
@@ -131,43 +165,6 @@ ___
             <tr>
                 <td>XFD</td>
                 <td><a href="https://www.nicovideo.jp/watch/sm42602822" target="_blank"><b>sm42602822</b></a></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-### 100年寝たい
-
-<div class="song-block">
-    <img src="https://sueakiyama.github.io/images/20231110_3.png" alt="100年寝たい ジャケット" class="announce-float-left">
-    <table class="announce-float-right">
-        <thead>
-            <tr>
-                <th>タイトル</th>
-                <th>100年寝たい</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>価格</td>
-                <td>500円</td>
-            </tr>
-            <tr>
-                <td>収録曲</td>
-                <td>1. <a href="https://www.nicovideo.jp/watch/sm42487583" target="_blank"><b>100年寝たい (aki63)</b></a> <br> 2. 迷子になってみたい (aki62) <br> 3. <a href="https://www.nicovideo.jp/watch/sm41953518" target="_blank"><b>ツイート捕食者 ツイーター (aki57)</b></a> <br> 4. <a href="https://www.nicovideo.jp/watch/sm41953427" target="_blank"><b>春が嫌いだ! (aki55)</b></a> <br> 5. <a href="https://www.nicovideo.jp/watch/sm41805954" target="_blank"><b>春休み2週間目 (aki54)</b></a></td>
-            </tr>
-            <tr>
-                <td>初出</td>
-                <td>ボーマス52 (2023.7.23)</td>
-            </tr>
-            <tr>
-                <td>コメント</td>
-                <td>日常系 (本当に?) の曲を集めました。表題作「100年寝たい」はお気に入りです。</td>
-            </tr>
-            <tr>
-                <td>XFD</td>
-                <td><a href="https://www.nicovideo.jp/watch/sm42512209" target="_blank"><b>sm42512209</b></a></td>
             </tr>
         </tbody>
     </table>
@@ -284,4 +281,4 @@ ___
 
 ## おわりに
 ___
-それでは、12月30日に、東京ビッグサイト 東ソ15aでお会いしましょう!　みなさんと会えるのを楽しみにしています!
+それでは、4月27日に、幕張メッセ D10でお会いしましょう!　みなさんと会えるのを楽しみにしています!
