@@ -7,7 +7,7 @@ postTime: "2024年3月"
 nicoId: sm0
 youtubeId: https://youtu.be/TX68-2lrvvY
 piaproId: dVJO
-bilibiliId: null
+bilibiliId: BV11H4y137vQ
 lyric: "ぼくが人間だったら、……"
 songIn: "CD未収録"
 ---
