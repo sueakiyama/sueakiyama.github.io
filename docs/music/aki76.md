@@ -9,7 +9,7 @@ youtubeId: UEN-PZdLXXQ
 piaproId: BCgl
 bilibiliId: BV16H4y1p7nR
 lyric: "グレーの髪に、オレンジのハイライト……"
-songIn: "CD未収録"
+songIn: "スーパードラゴンちせ19歳"
 ---
 
 ## 歌詞
