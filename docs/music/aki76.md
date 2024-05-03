@@ -8,7 +8,7 @@ nicoId: sm43575329
 youtubeId: UEN-PZdLXXQ 
 piaproId: BCgl
 bilibiliId: BV16H4y1p7nR
-lyric: "グレーの髪に、オレンジのハイライト……"
+lyric: "グレーの髪に、オレンジのハイライト…"
 songIn: "スーパードラゴンちせ19歳"
 ---
 
