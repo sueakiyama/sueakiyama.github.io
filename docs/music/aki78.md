@@ -4,7 +4,7 @@ title: "ぼくが人間だったら"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki78.png
 postTime: "2024年3月"
-nicoId: sm0
+nicoId: sm43741774
 youtubeId: https://youtu.be/TX68-2lrvvY
 piaproId: dVJO
 bilibiliId: BV11H4y137vQ
