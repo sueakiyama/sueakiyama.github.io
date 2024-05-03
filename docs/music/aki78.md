@@ -8,7 +8,7 @@ nicoId: sm0
 youtubeId: null
 piaproId: null
 bilibiliId: null
-lyric: "ぼくが人間だったら、ぼくが人間だったら、……"
+lyric: "ぼくが人間だったら、……"
 songIn: "CD未収録"
 ---
 
