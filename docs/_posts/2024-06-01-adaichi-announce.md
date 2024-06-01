@@ -1,28 +1,28 @@
 ---
 layout: category-post
-title: "コミアカ24に参加します!"
-excerpt: "2024年5月18-19日のコミアカ24に参加します!"
-description: "2024年5月18-19日のコミアカ24に参加します!"
+title: "足立の一歩に参加します!"
+excerpt: "2024年6月2日の足立の一歩に参加します!"
+description: "2024年6月2日の足立の一歩に参加します!"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/images/20240516_1.png
+image: https://sueakiyama.github.io/images/20240601_0.png
 ---
 
-![超ボーマス55サクカ](https://sueakiyama.github.io/images/20240516_1.png)
+![足立の一歩サクカ](https://sueakiyama.github.io/images/20240601_0.png)
 
 ## はじめに
 ___
 こんにちは、秋山翠花です。  
-5月18-19日に、同人誌即売会「[**コミックアカデミー24**](https://comiaca.com/ca24)」へ参加します!
+6月2日に、同人誌即売会「[**足立の一歩**](https://adachinoippo.net/)」へ参加します!
 
 ## 基本データ
 ___
 
-| イベント名 | コミックマーケット103 |
+| イベント名 | 足立の一歩 |
 | :----: | :---- |
-| 日付 | 2023年5月18日 (土)・19日 (日) |
-| 時間 | 10:00-16:00 |
-| 会場 | 東大本郷キャンパス 工学部8号館2階88L教室 |
-| ブース | N01「逆たまごかけごはん」 |
+| 日付 | 2024年6月2日 (日) |
+| 時間 | 12:00-15:00 |
+| 会場 | [ポプルスガレージ](https://www2.popls.co.jp/pop/garage/index.html) |
+| ブース | B09「逆たまごかけごはん」 |
 
 ## おしながき
 ___
