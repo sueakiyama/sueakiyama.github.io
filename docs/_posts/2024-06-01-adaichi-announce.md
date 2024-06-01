@@ -26,6 +26,43 @@ ___
 
 ## おしながき
 ___
+### 書けない。
+
+<div class="song-block">
+    <img src="https://sueakiyama.github.io/images/20240601_1.png" alt="書けない。ジャケット" class="announce-float-left">
+    <table class="announce-float-right">
+        <thead>
+            <tr>
+                <th>タイトル</th>
+                <th>書けない。</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>価格</td>
+                <td>500円</td>
+            </tr>
+            <tr>
+                <td>収録曲</td>
+                <td>1. 書けない。(aki83)<br>2. <b><a href="https://nico.ms/sm43355272" target="_blank">ゆで卵茹でます！！！！よろしくねあーあ (aki72)</a></b></td>
+            </tr>
+            <tr>
+                <td>初出</td>
+                <td><b>新譜</b></td>
+            </tr>
+            <tr>
+                <td>コメント</td>
+                <td>1曲めは「スランプの曲」です。しばらく曲を書けていなかったので…… 2曲めは、ズモ曲投稿祭で出した曲の再録です。</td>
+            </tr>
+            <tr>
+                <td>XFD</td>
+                <td><a href="https://nico.ms/sm43860931" target="_blank"><b>sm43860931</b></a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 ### ぼくが人間だったら
 
 <div class="song-block">
