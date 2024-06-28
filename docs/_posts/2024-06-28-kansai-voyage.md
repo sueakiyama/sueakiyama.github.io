@@ -4,7 +4,7 @@ title: "関西旅行の記録"
 excerpt: "関西へ旅行に行きました。"
 description: "関西へ旅行に行きました。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/images/20240601_1.png
+image: https://sueakiyama.github.io/images/20240625_6.JPG
 ---
 
 # 関西旅行の記録
