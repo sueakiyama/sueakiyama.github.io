@@ -7,7 +7,7 @@ postTime: "2024年2月"
 nicoId: null
 youtubeId: null
 piaproId: null
-lyric: "人気者のきみがどうして、ぼくみたいなのと……"
+lyric: "人気者のきみがどうして ぼくみたいなのと……"
 songIn: "ぼくが人間だったら"
 ---
 
