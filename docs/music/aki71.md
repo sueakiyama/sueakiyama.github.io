@@ -1,11 +1,11 @@
 ---
 layout: category-music
-title: "ぼくが人間だったら"
+title: "ぼくのことなんて"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki78.png
+image: https://sueakiyama.github.io/music/images/aki71.png
 postTime: "2024年2月"
-nicoId: null
-youtubeId: null
+nicoId: sm43939562
+youtubeId: o2Ffj7VZTqM
 piaproId: null
 lyric: "人気者のきみがどうして ぼくみたいなのと……"
 songIn: "ぼくが人間だったら"
