@@ -2,7 +2,7 @@
 layout: category-music
 title: "ぼくのことなんて"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki71.png
+image: https://sueakiyama.github.io/music/images/aki71.jpg
 postTime: "2024年2月"
 nicoId: sm43939562
 youtubeId: o2Ffj7VZTqM
