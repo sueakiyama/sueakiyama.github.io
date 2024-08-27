@@ -12,3 +12,5 @@ image: https://sueakiyama.github.io/thumbnail_new.png
 - **Website+Blog**: [Le site web de Suika AKIYAMA](https://sueakiyama.github.io)
 - **Misskey.io**: [MTDTR_tk@misskey.io](https://misskey.io/@MTDTR_tk)
 - **Discord**: ```suika_akiyama```
+- **BOOTH**: [すいかもんのおみせ](https://sueakiyama.booth.pm/)
+- **bandcamp**: [秋山翠花 (Suika AKIYAMA)](https://sueakiyama.bandcamp.com)
