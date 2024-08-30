@@ -6,7 +6,7 @@ image: https://sueakiyama.github.io/music/images/aki79.png
 postTime: "2024年3月"
 nicoId: 
 youtubeId: rM4rbXWPYug
-piaproId: 
+piaproId: mb8P
 bilibiliId: 
 lyric: "きみと遊ぶのは何回め……"
 songIn: "スーパードラゴンちせ19歳"
