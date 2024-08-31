@@ -6,7 +6,7 @@ image: https://sueakiyama.github.io/music/images/aki83.png
 postTime: "2024年6月"
 nicoId: sm44049248
 youtubeId: wXBUbvDqPjU 
-piaproId: 
+piaproId: 11lo
 bilibiliId: 
 lyric: "ぼくのからだ・こころ、一切に……"
 songIn: "書けない。"
