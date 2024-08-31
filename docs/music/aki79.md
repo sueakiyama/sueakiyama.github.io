@@ -12,6 +12,11 @@ lyric: "きみと遊ぶのは何回め……"
 songIn: "スーパードラゴンちせ19歳"
 ---
 
+## 広告
+この曲を収録した『喫茶GCT』は、東京大学作曲研究会GCTの Bandcamp にて、1000円でダウンロード販売されています。もしよかったらぜひ。
+
+<iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2376278002/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://gct-utokyo.bandcamp.com/album/gct">喫茶GCT 東京大学作曲研究会GCT</a></iframe>
+
 ## 歌詞
 
 きみと遊ぶのは何回め、  
