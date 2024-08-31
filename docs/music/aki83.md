@@ -7,7 +7,7 @@ postTime: "2024年6月"
 nicoId: sm44049248
 youtubeId: wXBUbvDqPjU 
 piaproId: 11lo
-bilibiliId: 
+bilibiliId: BV1LMnfeNE5n
 lyric: "ぼくのからだ・こころ、一切に……"
 songIn: "書けない。"
 ---
