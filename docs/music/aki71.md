@@ -7,6 +7,7 @@ postTime: "2024年2月"
 nicoId: sm43939562
 youtubeId: o2Ffj7VZTqM
 piaproId: null
+bilibiliId: BV1jNnfeTEgQ
 lyric: "人気者のきみがどうして……"
 songIn: "ぼくが人間だったら"
 ---
