@@ -4,8 +4,8 @@ title: "書けない。"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki83.png
 postTime: "2024年6月"
-nicoId: 
-youtubeId: 
+nicoId: sm44049248
+youtubeId: wXBUbvDqPjU 
 piaproId: 
 bilibiliId: 
 lyric: "ぼくのからだ・こころ、一切に……"
