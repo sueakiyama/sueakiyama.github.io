@@ -7,7 +7,7 @@ postTime: "2024年3月"
 nicoId: sm44045262
 youtubeId: rM4rbXWPYug
 piaproId: mb8P
-bilibiliId: 
+bilibiliId: BV17AnfeBEH5
 lyric: "きみと遊ぶのは何回め……"
 songIn: "スーパードラゴンちせ19歳"
 ---
