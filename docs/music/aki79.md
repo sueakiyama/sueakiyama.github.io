@@ -4,7 +4,7 @@ title: "アイスとメロンソーダ"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki79.png
 postTime: "2024年3月"
-nicoId: 
+nicoId: sm44045262
 youtubeId: rM4rbXWPYug
 piaproId: mb8P
 bilibiliId: 
