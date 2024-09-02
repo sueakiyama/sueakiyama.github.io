@@ -4,9 +4,9 @@ title: "平々凡々"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki81.png
 postTime: "2024年4月"
-nicoId: 
+nicoId: sm44056573
 youtubeId: 3uQ32R-pecY 
-piaproId: 
+piaproId: 8-_Q
 bilibiliId: 
 lyric: "小さい頃からずっと……"
 songIn: "ぼくが人間だったら"
