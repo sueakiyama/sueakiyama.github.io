@@ -7,7 +7,7 @@ postTime: "2024年4月"
 nicoId: sm44056573
 youtubeId: 3uQ32R-pecY 
 piaproId: 8-_Q
-bilibiliId: 
+bilibiliId: BV1ybHkezE5p
 lyric: "小さい頃からずっと……"
 songIn: "ぼくが人間だったら"
 ---
