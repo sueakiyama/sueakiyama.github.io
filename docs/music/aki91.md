@@ -6,7 +6,7 @@ image: https://sueakiyama.github.io/music/images/aki91.png
 postTime: "2024年9月"
 nicoId: sm44166456
 youtubeId: 6RgRIqO2PZk
-piaproId: 
+piaproId: 7mB1
 bilibiliId: 
 lyric: "魔法が使えなくなる前に……"
 songIn: "未収録"
