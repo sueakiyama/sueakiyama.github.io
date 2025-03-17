@@ -8,7 +8,7 @@ nicoId: "sm44775468"
 youtubeId: "0HDbGCQieus"
 piaproId: "VC-K"
 bilibiliId: "BV1t8XgYmE3V"
-lyric: "きみに抱きしめられる夢を見た、愛してなんて……"
+lyric: "きみに抱きしめられる夢を見た……"
 songIn: "未収録"
 ---
 
