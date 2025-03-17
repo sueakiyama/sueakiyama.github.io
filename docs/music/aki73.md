@@ -6,8 +6,8 @@ image: https://sueakiyama.github.io/music/images/aki73.jpg
 postTime: "2025年3月"
 nicoId: "sm44775468"
 youtubeId: "0HDbGCQieus"
-piaproId: 
-bilibiliId: 
+piaproId: "VC-K"
+bilibiliId: "BV1t8XgYmE3V"
 lyric: "きみに抱きしめられる夢を見た、愛してなんて……"
 songIn: "未収録"
 ---
