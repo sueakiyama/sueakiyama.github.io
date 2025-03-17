@@ -2,7 +2,7 @@
 layout: category-music
 title: "きみに抱きしめられる夢を見た。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki73.png
+image: https://sueakiyama.github.io/music/images/aki73.jpg
 postTime: "2025年3月"
 nicoId: "sm44775468"
 youtubeId: "0HDbGCQieus"
