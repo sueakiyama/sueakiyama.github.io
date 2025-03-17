@@ -4,8 +4,8 @@ title: "きみに抱きしめられる夢を見た。"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki73.png
 postTime: "2025年3月"
-nicoId: 
-youtubeId: 
+nicoId: "sm44775468"
+youtubeId: "0HDbGCQieus"
 piaproId: 
 bilibiliId: 
 lyric: "きみに抱きしめられる夢を見た、愛してなんて……"
