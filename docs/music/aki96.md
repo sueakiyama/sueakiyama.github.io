@@ -6,7 +6,7 @@ image: https://sueakiyama.github.io/music/images/aki96.png
 postTime: "2025年6月"
 nicoId: sm45149176
 youtubeId: T5i-hkEx8IY
-piaproId: 
+piaproId: eoKj
 bilibiliId: BV1gV3uzREcs
 lyric: "どんな街にいても、どんな気持ちで……"
 songIn: "未収録"
