@@ -4,8 +4,8 @@ title: "どんな街にいても"
 author: "秋山翠花"
 image: https://sueakiyama.github.io/music/images/aki91.png
 postTime: "2025年6月"
-nicoId: 
-youtubeId: 
+nicoId: sm45149176
+youtubeId: T5i-hkEx8IY
 piaproId: 
 bilibiliId: 
 lyric: "どんな街にいても、どんな気持ちでいるときも……"
