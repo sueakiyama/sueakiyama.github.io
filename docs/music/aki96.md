@@ -8,7 +8,7 @@ nicoId: sm45149176
 youtubeId: T5i-hkEx8IY
 piaproId: 
 bilibiliId: BV1gV3uzREcs
-lyric: "どんな街にいても、どんな気持ちでいるときも……"
+lyric: "どんな街にいても、どんな気持ちで……"
 songIn: "未収録"
 ---
 
