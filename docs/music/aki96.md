@@ -2,7 +2,7 @@
 layout: category-music
 title: "どんな街にいても"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki96.png
+image: https://sueakiyama.github.io/music/images/aki96.webp
 postTime: "2025年6月"
 nicoId: sm45149176
 youtubeId: T5i-hkEx8IY

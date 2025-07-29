@@ -2,7 +2,7 @@
 layout: category-music
 title: "エリアメール変奏曲"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki27.jpg
+image: https://sueakiyama.github.io/music/images/aki27.webp
 akiId: aki27
 postTime: "2020年10月"
 nicoId: sm38712935

@@ -2,7 +2,7 @@
 layout: category-music
 title: "平々凡々"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki81.png
+image: https://sueakiyama.github.io/music/images/aki81.webp
 postTime: "2024年4月"
 nicoId: sm44056573
 youtubeId: 3uQ32R-pecY 

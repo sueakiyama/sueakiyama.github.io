@@ -2,7 +2,7 @@
 layout: category-music
 title: "書けない。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki83.png
+image: https://sueakiyama.github.io/music/images/aki83.webp
 postTime: "2024年6月"
 nicoId: sm44049248
 youtubeId: wXBUbvDqPjU 

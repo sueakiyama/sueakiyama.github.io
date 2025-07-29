@@ -2,7 +2,7 @@
 layout: category-music
 title: "サイダーブルー"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki32.jpg
+image: https://sueakiyama.github.io/music/images/aki32.webp
 postTime: "2021年4月"
 nicoId: sm38673900
 youtubeId: ZepoDrofPjI

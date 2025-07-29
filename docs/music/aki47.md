@@ -2,7 +2,7 @@
 layout: category-post
 title: "逆たまごかけごはん"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki47.jpg
+image: https://sueakiyama.github.io/music/images/aki47.webp
 postTime: "2022年10月"
 nicoId: sm41194270
 youtubeId: BAAlqITPHXE

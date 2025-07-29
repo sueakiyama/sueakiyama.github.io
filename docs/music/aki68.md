@@ -2,7 +2,7 @@
 layout: category-music
 title: "きみを歌う"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki68.jpg
+image: https://sueakiyama.github.io/music/images/aki68.webp
 postTime: "2024年2月"
 nicoId: sm43441550
 youtubeId: SoUcgMLn2ic

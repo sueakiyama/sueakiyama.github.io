@@ -2,7 +2,7 @@
 layout: category-post
 title: "蝉みたいに不器用で。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki44.jpeg
+image: https://sueakiyama.github.io/music/images/aki44.webp
 postTime: "2022年9月"
 nicoId: sm41110114
 youtubeId: _iauTgNiBd8

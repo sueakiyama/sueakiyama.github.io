@@ -2,7 +2,7 @@
 layout: category-post
 title: "忘却概論"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki36.jpg
+image: https://sueakiyama.github.io/music/images/aki36.webp
 postTime: "2021年7月"
 nicoId: sm39170091
 youtubeId: Wtu8GeyHhyE

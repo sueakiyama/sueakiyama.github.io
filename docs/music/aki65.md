@@ -2,7 +2,7 @@
 layout: category-music
 title: "アンドロイドは夢を見ない"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki65.png
+image: https://sueakiyama.github.io/music/images/aki65.webp
 postTime: "2023年10月"
 nicoId: sm43048884
 youtubeId: wOqZhyGb0KI

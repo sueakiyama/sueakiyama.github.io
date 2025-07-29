@@ -2,7 +2,7 @@
 layout: category-music
 title: "日常系ヒゲンジツ"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki26.jpg
+image: https://sueakiyama.github.io/music/images/aki26.webp
 akiId: aki26
 postTime: "2020年8月"
 nicoId: sm37384763

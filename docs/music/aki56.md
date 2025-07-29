@@ -2,7 +2,7 @@
 layout: category-music
 title: "この相矛盾した感情を"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/music/images/aki56.jpg
+image: https://sueakiyama.github.io/music/images/aki56.webp
 postTime: "2023年3月"
 nicoId: sm41957061
 youtubeId: LT-KykSkFRI
