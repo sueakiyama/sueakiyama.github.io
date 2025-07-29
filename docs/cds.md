@@ -4,6 +4,10 @@ title_for_header: "CDs"
 description: "CDリスト"
 ---
 
+CDリスト建設予定地
+
+# このページは整備中です!
+
 <!-- Auto-List Test -->
 <div class="grid">
   
