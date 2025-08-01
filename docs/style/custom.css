@@ -86,7 +86,7 @@ h2.float-right {
   height:90px;
   float:right;
   display:flex;
-  align-items:end
+  align-items:end;
   pading-left:5px;
 }
 
