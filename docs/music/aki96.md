@@ -9,7 +9,7 @@ youtubeId: T5i-hkEx8IY
 piaproId: eoKj
 bilibiliId: BV1gV3uzREcs
 lyric: "どんな街にいても、どんな気持ちで……"
-songIn: "未収録"
+songIn: "どんな街にいても"
 ---
 
 ## 歌詞
