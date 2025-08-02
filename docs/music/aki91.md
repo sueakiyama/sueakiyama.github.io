@@ -9,7 +9,7 @@ youtubeId: 6RgRIqO2PZk
 piaproId: 7mB1
 bilibiliId: BV16YxYeSELX
 lyric: "魔法が使えなくなる前に……"
-songIn: "未収録"
+songIn: "どんな街にいても"
 ---
 
 ## 歌詞
