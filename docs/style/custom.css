@@ -146,3 +146,79 @@ article a {
     width:100%;
   }
 }
+
+/*ここからウェブサイトCDリストの試験用*/
+
+img.cds-float-left {
+  float:left;
+  width:415px;
+  transition: all 0.5s;
+}
+
+img.cds-first-image {
+  float:left;
+  width:415px;
+
+  object-fit:cover;
+  transition: all 1s;
+  position:absolute;
+  height:415px;
+  object-position:right;
+  z-index: 2;
+}
+
+div.cds-float-left:hover img.cds-first-image {
+  width:0%;
+  transition: all 1s;
+  position: absolute;
+}
+
+img.cds-second-image {
+  float:left;
+  width:415px;
+  transition: all 2s;
+  z-index: 0;
+}
+
+img.cds-second-image:hover {
+  transform: rotate(720deg);
+  transition: all 1.5s;
+}
+
+table.cds-float-right{
+  width:415px;
+  padding-left:10px;
+}
+
+table.cds-float-right td{
+  word-wrap:anywhere;
+}
+
+@media screen and (max-width:415px){
+  img.cds-float-left {
+    width:100%;
+    transition: all 0.5s;
+  }
+  table.cds-float-right {
+    width:100%;
+  }
+}
+
+img.cds-third-image {
+  float:left;
+  width:415px;
+  transition: all 2s;
+  z-index: 0;
+
+  object-fit:cover;
+  transition: all 1s;
+  position:absolute;
+  height:415px;
+  object-position:right;
+}
+
+img.cds-third-image:active {
+  width:0%;
+  transition: all 1s;
+  position: absolute;
+}
