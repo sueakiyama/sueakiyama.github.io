@@ -17,9 +17,9 @@ CDリスト建設予定地
 <div class="song-block">
     <input type="radio" name="tabset" id="tabcheck_dummy" checked>
     <div class="cds-float-left">
-        <img src="images/cd10_a.webp" alt="どんな街にいても ジャケット" class="cds-first-image">
-        <img src="images/cd10_c.webp" alt="どんな街にいても　レーベル" class="cds-second-image">
-        <img src="images/cd10_b.webp" alt="どんな街にいても　ジャケット裏" class="cds-third-image">
+        <img src="cds/images/cd10_a.webp" alt="どんな街にいても ジャケット" class="cds-first-image">
+        <img src="cds/images/cd10_c.webp" alt="どんな街にいても　レーベル" class="cds-second-image">
+        <img src="cds/images/cd10_b.webp" alt="どんな街にいても　ジャケット裏" class="cds-third-image">
     </div>
     <table class="cds-float-right">
         <thead>
