@@ -36,68 +36,6 @@ CDリスト建設予定地
             <tr>
                 <td>収録曲</td>
                 <td>
-                    <input type="radio" name="tabset" id="tabcheck48" onchange="location.reload()">
-                    <label for="tabcheck48" class="tab">
-                        <a>1. どんな街にいても (aki96)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck49" onchange="location.reload()">
-                    <label for="tabcheck49" class="tab">
-                        <a>2. 魔法が使えなくなる前に (aki91)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck50" onchange="location.reload()">
-                    <label for="tabcheck50" class="tab">
-                        <a>3. きみを嫌いになったら (aki88)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck51" onchange="location.reload()">
-                    <label for="tabcheck51" class="tab">
-                        <a>4. きみに抱きしめられる夢を見た。(aki73)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck52" onchange="location.reload()">
-                    <label for="tabcheck52" class="tab">
-                        <a>5. セーフティー・テザー (aki86)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck53" onchange="location.reload()">
-                    <label for="tabcheck53" class="tab">
-                        <a>6. きみの背中を (aki92)</a>
-                    </label>
-                    <br>
-                    <input type="radio" name="tabset" id="tabcheck54" onchange="location.reload()">
-                    <label for="tabcheck54" class="tab">
-                        <a>7. 街の季節も (aki99)</a>
-                    </label>
-                    <div class="tabcontent" id="tabcontent48">
-                        1. どんな街にいても (aki96)
-                        <audio controls src="どんな街にいても/aki96-Master.wav"></audio>
-                    </div>
-                    <div class="tabcontent" id="tabcontent49">
-                        2. 魔法が使えなくなる前に (aki91)
-                        <audio controls src="どんな街にいても/aki91-Master.wav"></audio>
-                    </div>
-                    <div class="tabcontent" id="tabcontent50">
-                        3. きみを嫌いになったら (aki88)
-                        <audio controls src="どんな街にいても/aki88-Master.wav"></audio>
-                    </div>
-                    <div class="tabcontent" id="tabcontent51">
-                        4. きみに抱きしめられる<br>夢を見た。(aki73)
-                        <audio controls src="どんな街にいても/aki73_hug-Master.wav"></audio>
-                    </div>
-                    <div class="tabcontent" id="tabcontent52">
-                        5. セーフティー・テザー (aki86)
-                        <audio controls src="どんな街にいても/aki86-Master.wav"></audio>
-                    </div>
-                    <div class="tabcontent" id="tabcontent53">
-                        6. きみの背中を (aki92)
-                        <audio controls src="どんな街にいても/aki92-Master.wav"></audio>
-                    </div>                    
-                    <div class="tabcontent" id="tabcontent54">
-                        7. 街の季節も (aki99)
-                        <audio controls src="どんな街にいても/aki99-Master.wav"></audio>
-                    </div>
                 </td>
             </tr>
             <tr>
@@ -110,11 +48,7 @@ CDリスト建設予定地
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><input type="radio" name="tabset" id="tabcheck55" onchange="location.reload()"><label for="tabcheck55" class="tab"><a><b>XFD</b></a></label>
-                    <div class="tabcontent" id="tabcontent55">
-                        <video controls src="どんな街にいても/どんな街にいてもXFD.mp4"></video>
-                        <span style="font-size:15px;">※XFDには、6. きみの背中を　が入っていません!　ごめんなさい!</span>
-                    </div>
+                <td>
                 </td>
             </tr>
         </tbody>
