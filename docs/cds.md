@@ -15,7 +15,6 @@ CDリスト建設予定地
 
 <div>
 <div class="song-block">
-    <input type="radio" name="tabset" id="tabcheck_dummy" checked>
     <div class="cds-float-left">
         <img src="cds/images/cd10_a.webp" alt="どんな街にいても ジャケット" class="cds-first-image">
         <img src="cds/images/cd10_c.webp" alt="どんな街にいても　レーベル" class="cds-second-image">
