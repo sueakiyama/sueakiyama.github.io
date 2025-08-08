@@ -155,6 +155,11 @@ img.cds-float-left {
   transition: all 0.5s;
 }
 
+div.cds-float-left-menu {
+  float:left;
+  transition: all 0.5s;
+}
+
 img.cds-first-image {
   float:left;
   width:415px;
@@ -165,12 +170,8 @@ img.cds-first-image {
   height:415px;
   object-position:right;
   z-index: 2;
-}
 
-div.cds-float-left:hover img.cds-first-image {
-  width:0%;
-  transition: all 1s;
-  position: absolute;
+  transition-delay: 0.5s;
 }
 
 img.cds-second-image {
@@ -178,11 +179,9 @@ img.cds-second-image {
   width:415px;
   transition: all 2s;
   z-index: 0;
-}
-
-img.cds-second-image:hover {
-  transform: rotate(720deg);
-  transition: all 1.5s;
+  object-fit: cover;
+  /*position: absolute;
+  height: 415px;*/
 }
 
 table.cds-float-right{
@@ -190,18 +189,14 @@ table.cds-float-right{
   padding-left:10px;
 }
 
-table.cds-float-right td{
-  word-wrap:anywhere;
+div.cds-float-right-menu{
+  float: right;
+  width:415px;
+  padding-left:10px;
 }
 
-@media screen and (max-width:415px){
-  img.cds-float-left {
-    width:100%;
-    transition: all 0.5s;
-  }
-  table.cds-float-right {
-    width:100%;
-  }
+table.cds-float-right td{
+  word-wrap:anywhere;
 }
 
 img.cds-third-image {
@@ -215,10 +210,98 @@ img.cds-third-image {
   position:absolute;
   height:415px;
   object-position:right;
+
 }
 
-img.cds-third-image:active {
-  width:0%;
-  transition: all 1s;
-  position: absolute;
+/*アニメーション系*/
+
+@media screen and (min-width:450px){
+
+  div.cds-float-left:hover img.cds-first-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  img.cds-second-image:hover {
+    transform: rotate(720deg);
+    transition: all 1.5s;
+  }
+
+  img.cds-third-image:active {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd10_jacket_b:checked ~ img.cds-first-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd10_jacket_c:checked ~ img.cds-first-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+
+  #cd10_jacket_c:checked ~ .cds-third-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+    transition-delay: 0.5s;
+  }
+
+  #cd10_jacket_c:checked ~ .cds-second-image {
+    transform: rotate(720deg);
+    transition: all 1.5s;
+    transition-delay: 1s;
+  }
+}
+
+@media screen and (max-width:450px){
+  div.cds-float-left {
+    height: 415px;
+  }
+  img.cds-float-left {
+    width:100%;
+    transition: all 0.5s;
+  }
+  table.cds-float-right {
+    width:100%;
+  }
+  img.cds-images {
+    width: 90%;
+    height: auto;
+  }
+  img.cds-second-image {
+    position: absolute;
+  }
+
+  #cd10_jacket_b:checked ~ img.cds-first-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd10_jacket_c:checked ~ img.cds-first-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd10_jacket_c:checked ~ .cds-third-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+    transition-delay: 0.5s;
+  }
+
+  #cd10_jacket_c:checked ~ .cds-second-image {
+    transform: rotate(720deg);
+    transition: all 1.5s;
+    transition-delay: 1s;
+  }
 }
