@@ -16,12 +16,12 @@ CDリスト建設予定地
 <div>
 <div class="song-block">
     <div class="cds-float-left">
-        <input type="radio" name="cd10_select" id="cd10_jacket_a" checked>
-        <input type="radio" name="cd10_select" id="cd10_jacket_b">
-        <input type="radio" name="cd10_select" id="cd10_jacket_c">
+        <input type="radio" name="cd10_select" id="cd10_jacket_a" class="non" checked>
+        <input type="radio" name="cd10_select" id="cd10_jacket_b" class="non">
+        <input type="radio" name="cd10_select" id="cd10_jacket_c" class="non">
         <img src="cds/images/cd10_a.webp" alt="どんな街にいても ジャケット" class="cds-first-image cds-images">
-        <img src="cds/images/cd10_b.webp" alt="どんな街にいても　レーベル" class="cds-second-image cds-images">
-        <img src="cds/images/cd10_c.webp" alt="どんな街にいても　ジャケット裏" class="cds-third-image cds-images">
+        <img src="cds/images/cd10_c.webp" alt="どんな街にいても　レーベル" class="cds-second-image cds-images">
+        <img src="cds/images/cd10_b.webp" alt="どんな街にいても　ジャケット裏" class="cds-third-image cds-images">
     </div>
     <table class="cds-float-right">
         <thead>
