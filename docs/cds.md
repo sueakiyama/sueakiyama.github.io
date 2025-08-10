@@ -19,9 +19,9 @@ CDリスト建設予定地
         <input type="radio" name="cd10_select" id="cd10_jacket_a" checked>
         <input type="radio" name="cd10_select" id="cd10_jacket_b">
         <input type="radio" name="cd10_select" id="cd10_jacket_c">
-        <img src="どんな街にいても/ジャケット_宣伝用.png" alt="どんな街にいても ジャケット" class="cds-first-image cds-images">
-        <img src="どんな街にいても/レーベル_透明.png" alt="どんな街にいても　レーベル" class="cds-second-image cds-images">
-        <img src="どんな街にいても/ジャケット裏.png" alt="どんな街にいても　ジャケット裏" class="cds-third-image cds-images">
+        <img src="cds/images/cd10_a.webp" alt="どんな街にいても ジャケット" class="cds-first-image cds-images">
+        <img src="cds/images/cd10_b.webp" alt="どんな街にいても　レーベル" class="cds-second-image cds-images">
+        <img src="cds/images/cd10_c.webp" alt="どんな街にいても　ジャケット裏" class="cds-third-image cds-images">
     </div>
     <table class="cds-float-right">
         <thead>
@@ -31,6 +31,14 @@ CDリスト建設予定地
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>画像</td>
+                <td>
+                    <label for="cd10_jacket_a"><a>ジャケット表面</a></label>・
+                    <label for="cd10_jacket_b"><a>ジャケット裏面</a></label>・
+                    <label for="cd10_jacket_c"><a>レーベル</a></label>
+                </td>
+            </tr>
             <tr>
                 <td>価格</td>
                 <td>1000円</td>
