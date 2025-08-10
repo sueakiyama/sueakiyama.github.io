@@ -305,3 +305,7 @@ img.cds-third-image {
     transition-delay: 1s;
   }
 }
+
+input.non {
+  display: none;
+}
