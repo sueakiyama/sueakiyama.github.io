@@ -9,10 +9,10 @@ CDリスト建設予定地
 # このページは整備中です!
 
 <h2 id="おしながき">CD一覧</h2>
+<div>
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
     {% if doc.url contains 'cds/' %}
-    <div>
       <h3 id="{{ doc.title }}">{{ doc.title }}</h3>
       <div class="song-block">
         <div class="cds-float-left">
@@ -75,8 +75,7 @@ CDリスト建設予定地
     </div>
     {% endif %}
   {% endfor %}
-
-<hr>
+</div>
 
 <h3 id="どんな街にいても">どんな街にいても</h3>
 
