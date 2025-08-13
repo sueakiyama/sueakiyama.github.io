@@ -73,6 +73,7 @@ CDリスト建設予定地
             </table>
         </div>
     {% endif %}
+  {% endfor %}
 
 
 
