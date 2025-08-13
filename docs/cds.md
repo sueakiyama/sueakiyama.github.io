@@ -3,11 +3,6 @@ title: "CDs - Le Site Web de Suika AKIYAMA"
 title_for_header: "CDs"
 description: "CDリスト"
 ---
-
-CDリスト建設予定地
-
-# このページは整備中です!
-
 <div>
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
