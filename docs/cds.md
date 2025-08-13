@@ -13,12 +13,60 @@ CDリスト建設予定地
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
     {% if doc.url contains 'cds/' %}
+      <style>
+        @media screen and (min-width:450px){
+          #{{ doc.name | remove: '.md' }}_jacket_b:checked ~ img.cds-first-image {
+            width:0%;
+            transition: all 1s;
+            position: absolute;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ img.cds-first-image {
+            width:0%;
+            transition: all 1s;
+            position: absolute;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ .cds-third-image {
+            width:0%;
+            transition: all 1s;
+            position: absolute;
+            transition-delay: 0.5s;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ .cds-second-image {
+            transform: rotate(720deg);
+            transition: all 1.5s;
+            transition-delay: 1s;
+          }
+        }
+        @media screen and (max-width:450px){
+          #{{ doc.name | remove: '.md' }}_jacket_b:checked ~ img.cds-first-image {
+            opacity: 0;
+            transition: all 1s;
+            position: absolute;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ img.cds-first-image {
+            opacity: 0;
+            transition: all 1s;
+            position: absolute;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ .cds-third-image {
+            opacity: 0;
+            transition: all 1s;
+            position: absolute;
+            transition-delay: 0.5s;
+          }
+          #{{ doc.name | remove: '.md' }}_jacket_c:checked ~ .cds-second-image {
+            transform: rotate(720deg);
+            transition: all 1.5s;
+            transition-delay: 1s;
+          }
+        }
+      </style>
       <h3 id="{{ doc.title }}">{{ doc.title }}</h3>
       <div class="song-block">
         <div class="cds-float-left">
-          <input type="radio" name="cd_select" id="cd_jacket_a" class="non" checked>
-          <input type="radio" name="cd_select" id="cd_jacket_b" class="non">
-          <input type="radio" name="cd_select" id="cd_jacket_c" class="non">
+          <input type="radio" name="{{ doc.name | remove: '.md' }}_select" id="{{ doc.name | remove: '.md' }}_jacket_a" class="non" checked>
+          <input type="radio" name="{{ doc.name | remove: '.md' }}_select" id="{{ doc.name | remove: '.md' }}_jacket_b" class="non">
+          <input type="radio" name="{{ doc.name | remove: '.md' }}_select" id="{{ doc.name | remove: '.md' }}_jacket_c" class="non">
           <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_a.webp" alt="ジャケット" class="cds-first-image cds-images">
           <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_c.webp" alt="レーベル" class="cds-second-image cds-images">
           <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_b.webp" alt="ジャケット裏" class="cds-third-image cds-images">
@@ -34,9 +82,9 @@ CDリスト建設予定地
             <tr>
               <td>画像</td>
               <td>
-                <label for="cd_jacket_a"><a>ジャケット表面</a></label>・
-                <label for="cd_jacket_b"><a>ジャケット裏面</a></label>・
-                <label for="cd_jacket_c"><a>レーベル</a></label>
+                <label for="{{ doc.name | remove: '.md' }}_jacket_a"><a>ジャケット表面</a></label>・
+                <label for="{{ doc.name | remove: '.md' }}_jacket_b"><a>ジャケット裏面</a></label>・
+                <label for="{{ doc.name | remove: '.md' }}_jacket_c"><a>レーベル</a></label>
               </td>
             </tr>
             <tr>
@@ -130,54 +178,4 @@ CDリスト建設予定地
     </table>
 </div>
 
-
-
 </div>
-
-<!-- Auto-List Test -->
-<div class="grid">
-  
-{% assign doclist = site.pages | sort: 'url' | reverse %}
-  {% for doc in doclist %}
-    {% if doc.url contains 'music/' %}
-      <div class="item">
-        <a href="{{ doc.url | remove: '.html' }}">
-          <img class="float-left" src="{{ doc.image }}" alt="{{ doc.title }} サムネ">
-        </a> 
-        <h2 class="float-right" style="font-size:26px;">{{ doc.title }}</h2>
-        <table class="float-right">
-          <tr>
-            <th>ID</th>
-            <td>{{ doc.name | remove: '.md' }}</td>
-          </tr>
-          <tr>
-            <th>作曲年</th>
-            <td>{{ doc.postTime }}</td>
-          </tr>
-          <tr>
-            <th>ニコニコ</th>
-            <td><a href="https://www.nicovideo.jp/watch/{{ doc.nicoId }}" target="_blank">{{ doc.nicoId }}</a></td>
-          </tr>
-          <tr>
-            <th>歌詞</th>
-            <td>{{ doc.lyric }}</td>
-          </tr>
-          <tr>
-            <th>収録CD</th>
-            <td style="font-size:15px;">{{ doc.songIn }}</td>
-          </tr>
-            <tr>
-                <td>画像</td>
-                <td>
-                    <label for="cd10_jacket_a"><a>ジャケット表面</a></label>・
-                    <label for="cd10_jacket_b"><a>ジャケット裏面</a></label>・
-                    <label for="cd10_jacket_c"><a>レーベル</a></label>
-                </td>
-            </tr>
-        </table>
-      </div>
-    {% endif %}
-  {% endfor %}
-
-</div>
-<!-- Auto-List Test End -->
