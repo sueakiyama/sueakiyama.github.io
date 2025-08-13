@@ -60,10 +60,10 @@ layout: default
                 <tr>
                     <td>在庫</td>
                     <td>
-                      {{ % if page.stock == true % }}
-                      在庫あり
-                      {{ % else % }}
+                      {{ % if page.stock == false % }}
                       DL版のみ
+                      {{ % else % }}
+                      在庫あり
                       {{ % endif % }}
                     </td>
                 </tr>
