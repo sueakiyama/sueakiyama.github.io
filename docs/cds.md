@@ -8,7 +8,6 @@ CDリスト建設予定地
 
 # このページは整備中です!
 
-<h2 id="おしながき">CD一覧</h2>
 <div>
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
