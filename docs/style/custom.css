@@ -259,6 +259,32 @@ img.cds-third-image {
     transition: all 1.5s;
     transition-delay: 1s;
   }
+
+  #cd_jacket_b:checked ~ img.cds-first-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd_jacket_c:checked ~ img.cds-first-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+  }
+
+
+  #cd_jacket_c:checked ~ .cds-third-image {
+    width:0%;
+    transition: all 1s;
+    position: absolute;
+    transition-delay: 0.5s;
+  }
+
+  #cd_jacket_c:checked ~ .cds-second-image {
+    transform: rotate(720deg);
+    transition: all 1.5s;
+    transition-delay: 1s;
+  }
 }
 
 @media screen and (max-width:450px){
@@ -300,6 +326,32 @@ img.cds-third-image {
   }
 
   #cd10_jacket_c:checked ~ .cds-second-image {
+    transform: rotate(720deg);
+    transition: all 1.5s;
+    transition-delay: 1s;
+  }
+
+
+  #cd_jacket_b:checked ~ img.cds-first-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd_jacket_c:checked ~ img.cds-first-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+  }
+
+  #cd_jacket_c:checked ~ .cds-third-image {
+    opacity: 0;
+    transition: all 1s;
+    position: absolute;
+    transition-delay: 0.5s;
+  }
+
+  #cd_jacket_c:checked ~ .cds-second-image {
     transform: rotate(720deg);
     transition: all 1.5s;
     transition-delay: 1s;
