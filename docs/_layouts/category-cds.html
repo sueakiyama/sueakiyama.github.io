@@ -17,7 +17,51 @@ layout: default
 
     <h2>基本データ</h2>
     <div class="song-block">
-      <table class="float-left">
+        <div class="cds-float-left">
+            <input type="radio" name="cd_select" id="cd_jacket_a" class="non" checked>
+            <input type="radio" name="cd_select" id="cd_jacket_b" class="non">
+            <input type="radio" name="cd_select" id="cd_jacket_c" class="non">
+            <img src="https://sueakiyama.github.io/cds/images/{{ page.name | remove: '.md' }}_a.webp" alt="ジャケット" class="cds-first-image cds-images">
+            <img src="https://sueakiyama.github.io/cds/images/{{ page.name | remove: '.md' }}_c.webp" alt="レーベル" class="cds-second-image cds-images">
+            <img src="https://sueakiyama.github.io/cds/images/{{ page.name | remove: '.md' }}_b.webp" alt="ジャケット裏" class="cds-third-image cds-images">
+        </div>
+        <table class="cds-float-right">
+            <thead>
+                <tr>
+                    <th>タイトル</th>
+                    <th>{{ page.title }}</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>価格</td>
+                    <td>{{ page.price }}</td>
+                </tr>
+                <tr>
+                    <td>収録曲</td>
+                    <td>{{ page.songs }}</td>
+                </tr>
+                <tr>
+                    <td>初出</td>
+                    <td>{{ page.firstEvent }}</td>
+                </tr>
+                <tr>
+                    <td>コメント</td>
+                    <td>{{ page.comment }}</td>
+                </tr>
+                <tr>
+                    <td>画像</td>
+                    <td>
+                        <label for="cd_jacket_a"><a>ジャケット表面</a></label>・
+                        <label for="cd_jacket_b"><a>ジャケット裏面</a></label>・
+                        <label for="cd_jacket_c"><a>レーベル</a></label>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+        <!--
         <tr>
           <td>ID</td>
           <td>{{ page.name | remove: '.md' }}</td>
@@ -38,9 +82,7 @@ layout: default
           <td>収録CD</td>
           <td>{{ page.songIn }}</td>
         </tr>
-      </table>
-      <img class="float-right" src="{{ page.image }}" alt="{{ page.title }}サムネイル">
-    </div>
+        -->
     
       {{ content }}
 
