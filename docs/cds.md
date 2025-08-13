@@ -15,7 +15,7 @@ CDリスト建設予定地
   {% for doc in doclist %}
     {% if doc.url contains 'cds/' %}
     TEST
-<!--    <div>
+    <div>
         <h3 id="{{ doc.title }}">{{ doc.title }}</h3>
         <div class="song-block">
             <div class="cds-float-left">
@@ -26,7 +26,7 @@ CDリスト建設予定地
                 <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_c.webp" alt="レーベル" class="cds-second-image cds-images">
                 <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_b.webp" alt="ジャケット裏" class="cds-third-image cds-images">
             </div>
-            <table class="cds-float-right">
+            <!--<table class="cds-float-right">
                 <thead>
                     <tr>
                         <th>タイトル</th>
