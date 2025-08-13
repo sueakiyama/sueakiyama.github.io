@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="https://sueakiyama.github.io/style/custom.css">
+
+<article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-9 sm-width-full py-4 mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+    <p class="mb-3 py-2 bold h4"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {% assign date_english = page.date | date_to_string %}
+      {% include date-french.html %}
+      {{ date_french }}
+    </time></p>
+  </div>
+
+  <div class="prose" itemprop="articleBody">
+
+    <h2>基本データ</h2>
+    <div class="song-block">
+      <table class="float-left">
+        <tr>
+          <td>ID</td>
+          <td>{{ page.name | remove: '.md' }}</td>
+        </tr>
+        <tr>
+          <td>作曲年</td>
+          <td>{{ page.postTime }}</td>
+        </tr>
+        <tr>
+          <td>ニコニコ</td>
+          <td><a href='https://nico.ms/{{ page.nicoId }}' target="_blank">{{ page.nicoId }}</a></td>
+        </tr>
+        <tr>
+          <td>歌詞</td>
+          <td>{{ page.lyric }}</td>
+        </tr>
+        <tr>
+          <td>収録CD</td>
+          <td>{{ page.songIn }}</td>
+        </tr>
+      </table>
+      <img class="float-right" src="{{ page.image }}" alt="{{ page.title }}サムネイル">
+    </div>
+    
+      {{ content }}
+
+    <h2>試聴</h2>
+    <script type="application/javascript" src="https://embed.nicovideo.jp/watch/{{ page.nicoId }}/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/{{ page.nicoId }}">{{ page.title }}</a></noscript>
+
+    <h2>各種リンク</h2>
+    <table>
+      <tr>
+        <th>ニコニコ</th>
+        <td><a href="https://nico.ms/{{ page.nicoId }}" target="_blank">https://nico.ms/{{ page.nicoId }}</a></td>
+      </tr>
+      <tr>
+        <th>Youtube</th>
+        <td><a href="https://youtu.be/{{ page.youtubeId }}" target="_blank">https://youtu.be/{{ page.youtubeId }}</a></td>
+      </tr>
+      <tr>
+        <th>SoundCloud</th>
+        <td><a href="https://soundcloud.com/sueakiyama/{{ page.name | remove: '.md' }}" target="_blank">https://soundcloud.com/sueakiyama/{{ page.name | remove: '.md' }}</a></td>
+      </tr>
+
+      {% if page.bilibiliId %}
+      <tr>
+        <th>Bilibili</th>
+        <td><a href="https://www.bilibili.com/video/{{ page.bilibiliId }}" target="_blank">https://www.bilibili.com/video/{{ page.bilibiliId }}</a></td>
+      </tr> 
+      {% endif %}
+      
+    </table>
+
+    <h2>オフボーカル</h2>
+    <a href="https://piapro.jp/t/{{ page.piaproId }}" target="_blank">https://piapro.jp/t/{{ page.piaproId }}</a>
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  {% include previous-next_has-categories.html %}
+</div>
