@@ -34,6 +34,14 @@ layout: default
             </thead>
             <tbody>
                 <tr>
+                    <td>画像</td>
+                    <td>
+                        <label for="cd_jacket_a"><a>ジャケット表面</a></label>・
+                        <label for="cd_jacket_b"><a>ジャケット裏面</a></label>・
+                        <label for="cd_jacket_c"><a>レーベル</a></label>
+                    </td>
+                </tr>
+                <tr>
                     <td>価格</td>
                     <td>{{ page.price }}</td>
                 </tr>
@@ -50,12 +58,8 @@ layout: default
                     <td>{{ page.comment }}</td>
                 </tr>
                 <tr>
-                    <td>画像</td>
-                    <td>
-                        <label for="cd_jacket_a"><a>ジャケット表面</a></label>・
-                        <label for="cd_jacket_b"><a>ジャケット裏面</a></label>・
-                        <label for="cd_jacket_c"><a>レーベル</a></label>
-                    </td>
+                    <td>在庫</td>
+                    <td>{{ page.stock }}</td>
                 </tr>
             </tbody>
         </table>
