@@ -10,9 +10,11 @@ CDリスト建設予定地
 
 <h2 id="おしながき">CD一覧</h2>
 
+
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
     {% if doc.url contains 'cds/' %}
+    <div>
         <h3 id="{{ doc.title }}">{{ doc.title }}</h3>
         <div class="song-block">
             <div class="cds-float-left">
@@ -72,7 +74,9 @@ CDリスト建設予定地
                 </tbody>
             </table>
         </div>
+        </div>
     {% endif %}
+
   {% endfor %}
 
 
