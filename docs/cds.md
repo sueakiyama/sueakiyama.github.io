@@ -26,56 +26,7 @@ CDリスト建設予定地
                 <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_c.webp" alt="レーベル" class="cds-second-image cds-images">
                 <img src="https://sueakiyama.github.io/cds/images/{{ doc.name | remove: '.md' }}_b.webp" alt="ジャケット裏" class="cds-third-image cds-images">
             </div>
-            <!--<table class="cds-float-right">
-                <thead>
-                    <tr>
-                        <th>タイトル</th>
-                        <th>{{ doc.title }}</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>画像</td>
-                        <td>
-                            <label for="cd_jacket_a"><a>ジャケット表面</a></label>・
-                            <label for="cd_jacket_b"><a>ジャケット裏面</a></label>・
-                            <label for="cd_jacket_c"><a>レーベル</a></label>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>価格</td>
-                        <td>{{ doc.price }}</td>
-                    </tr>
-                    <tr>
-                        <td>収録曲</td>
-                        <td>{{ doc.songs }}</td>
-                    </tr>
-                    <tr>
-                        <td>初出</td>
-                        <td>{{ doc.firstEvent }}</td>
-                    </tr>
-                    <tr>
-                        <td>コメント</td>
-                        <td>{{ doc.comment }}</td>
-                    </tr>
-                    <tr>
-                        <td>在庫</td>
-                        <td>
-                          {% if doc.stock == false %}
-                          DL版のみ
-                          {% else %}
-                          在庫あり
-                          {% endif %}
-                        </td>
-                    </tr>
-                  <tr>
-                      <td>XFD</td>
-                      <td><a href="https://nico.ms/{{ doc.xfd }}" target="_blank">{{ doc.xfd }}</a></td>
-                  </tr>
-                </tbody>
-            </table>
-        </div>
-        </div>-->
+
     {% endif %}
 
   {% endfor %}
