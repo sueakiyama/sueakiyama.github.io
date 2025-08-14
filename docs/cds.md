@@ -9,7 +9,7 @@ image: https://sueakiyama.github.io/cds/images/cd01_a.webp
   {% for doc in doclist %}
     {% if doc.url contains 'cds/' %}
       <style>
-        @media screen and (min-width:450px){
+        @media screen and (min-width:451px){
           #{{ doc.name | remove: '.md' }}_jacket_b:checked ~ img.cds-first-image {
             width:0%;
             transition: all 1s;
