@@ -71,12 +71,12 @@ layout: default
                 <td>通販</td>
                 <td>
                   {% if page.booth %}
-                  <a href="https://sueakiyama.booth.pm/items/{{% page.booth %}}" target="_blank"><b>BOOTH</b></a>　
+                  <a href="https://sueakiyama.booth.pm/items/{{ page.booth }}" target="_blank"><b>BOOTH</b></a>　
                   {% else %}
                   通販準備中
                   {% endif %}
                   {% if page.bandcamp %}
-                  <a href="{{% page.bandcamp %}}" target="_blank"><b>Bandcamp</b></a>
+                  <a href="{{ page.bandcamp }}" target="_blank"><b>Bandcamp</b></a>
                   {% endif %}
                 </td>
             </tr>
