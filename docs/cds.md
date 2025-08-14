@@ -111,12 +111,12 @@ image: https://sueakiyama.github.io/cds/images/cd1_a.webp
             <tr>
               <td>通販</td>
               <td>
-                {% if page.booth %}
+                {% if doc.booth %}
                 <a href="https://sueakiyama.ooth.pm/items/{{% doc.booth %}}" target="_blank"><b>BOOTH</b></a>　
                 {% else %}
                 通販準備中
                 {% endif %}
-                {% if page.bandcamp %}
+                {% if doc.bandcamp %}
                 <a href="{{% doc.bandcamp %}}" target="_blank"><b>Bandcamp</b></a>
                 {% endif %}
               </td>
