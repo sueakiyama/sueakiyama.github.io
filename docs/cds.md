@@ -112,7 +112,7 @@ image: https://sueakiyama.github.io/cds/images/cd01_a.webp
               <td>通販</td>
               <td>
                 {% if doc.booth %}
-                <a href="https://sueakiyama.ooth.pm/items/{{% doc.booth %}}" target="_blank"><b>BOOTH</b></a>　
+                <a href="https://sueakiyama.booth.pm/items/{{% doc.booth %}}" target="_blank"><b>BOOTH</b></a>　
                 {% else %}
                 通販準備中
                 {% endif %}
