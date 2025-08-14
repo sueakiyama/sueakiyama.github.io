@@ -106,6 +106,8 @@ description: "CDリスト"
                 在庫あり
                 {% endif %}
               </td>
+            </tr>
+            <tr>
               <td>通販</td>
               <td>
                 {% if page.booth %}
