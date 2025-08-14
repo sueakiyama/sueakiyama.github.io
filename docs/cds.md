@@ -2,7 +2,7 @@
 title: "CDs - Le Site Web de Suika AKIYAMA"
 title_for_header: "CDs"
 description: "CDリスト"
-image: https://sueakiyama.github.io/cds/images/cd1_a.webp
+image: https://sueakiyama.github.io/cds/images/cd01_a.webp
 ---
 <div>
 {% assign doclist = site.pages | sort: 'url' | reverse %}
