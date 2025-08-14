@@ -55,7 +55,7 @@ description: "CDリスト"
           }
         }
       </style>
-      <h3 id="{{ doc.title }}">{{ doc.title }}</h3>
+      <a href="{{ doc.url | remove: '.html' }}"><h3 id="{{ doc.title }}">{{ doc.title }}</h3></a>
       <div class="song-block">
         <div class="cds-float-left">
           <input type="radio" name="{{ doc.name | remove: '.md' }}_select" id="{{ doc.name | remove: '.md' }}_jacket_a" class="non" checked>
@@ -104,6 +104,17 @@ description: "CDリスト"
                 DL版のみ
                 {% else %}
                 在庫あり
+                {% endif %}
+              </td>
+              <td>通販</td>
+              <td>
+                {% if page.booth %}
+                <a href="https://sueakiyama.ooth.pm/items/{{% doc.booth %}}" target="_blank"><b>BOOTH</b></a>　
+                {% else %}
+                通販準備中
+                {% endif %}
+                {% if page.bandcamp %}
+                <a href="{{% doc.bandcamp %}}" target="_blank"><b>Bandcamp</b></a>
                 {% endif %}
               </td>
             </tr>
