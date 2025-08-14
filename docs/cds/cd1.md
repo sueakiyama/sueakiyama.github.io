@@ -389,6 +389,3 @@ bandcamp: https://sueakiyama.bandcamp.com/album/-
 きみのいない、この静かな世界なんて!
 
 *(2019年12月; aki9)*
-人の営みも、晩ごはんのおかずも。
-
-*(2025年7月; aki99)*
