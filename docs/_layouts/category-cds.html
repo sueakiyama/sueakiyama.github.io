@@ -68,6 +68,19 @@ layout: default
                     </td>
                 </tr>
               <tr>
+                <td>通販</td>
+                <td>
+                  {% if page.booth %}
+                  <a href="https://sueakiyama.ooth.pm/items/{{% doc.booth %}}" target="_blank"><b>BOOTH</b></a>　
+                  {% else %}
+                  通販準備中
+                  {% endif %}
+                  {% if page.bandcamp %}
+                  <a href="{{% doc.bandcamp %}}" target="_blank"><b>Bandcamp</b></a>
+                  {% endif %}
+                </td>
+            </tr>
+              <tr>
                   <td>XFD</td>
                   <td><a href="https://nico.ms/{{ page.xfd }}" target="_blank">{{ page.xfd }}</a></td>
               </tr>
