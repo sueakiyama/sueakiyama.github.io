@@ -215,7 +215,7 @@ img.cds-third-image {
 
 /*アニメーション系*/
 
-@media screen and (min-width:450px){
+@media screen and (min-width:451px){
 
   div.cds-float-left:hover img.cds-first-image {
     width:0%;
