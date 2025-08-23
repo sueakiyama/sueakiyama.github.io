@@ -8,7 +8,7 @@ nicoId: sm45326002
 youtubeId: uxMYLYCOmXE
 piaproId: eoKj
 bilibiliId: BV1NXeezyEmT
-lyric: "ひさしぶりに、帰ってきた、街を、歩く。"
+lyric: "ひさしぶりに、帰ってきた……"
 songIn: "どんな街にいても"
 ---
 
