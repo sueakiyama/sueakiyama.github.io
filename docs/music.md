@@ -10,7 +10,7 @@ description: "楽曲リスト"
 {% assign doclist = site.pages | sort: 'url' | reverse %}
   {% for doc in doclist %}
     {% if doc.url contains 'music/' %}
-      {% assign docid = doc.name | remove: '.md' | remove: 'aki' %}
+      {% assign docid = doc.name | remove: '.md' | remove: 'aki' | plus: 0 %}
       {% if docid > 100 %}
         <div class="item">
           <a href="{{ doc.url | remove: '.html' }}">
