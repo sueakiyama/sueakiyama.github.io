@@ -23,7 +23,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 
 ## 相互リンク!
 
-- <iframe src="https://charlotteace.github.io/parts/banner" scrolling="no" frameborder="0" width="200" height="120"></iframe>
+- <iframe src="https://charlotteace.github.io/parts/banner" scrolling="no" frameborder="0" width="200" height="60"></iframe>
 - [ふぁぼんのホームページ](https://fabon.info)
 - [comph-note](https://comphand.pages.dev)
-
+- [LICJAR.XYZ](https://licjar.xyz/)
