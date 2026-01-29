@@ -13,6 +13,7 @@ description: "<a href='https://sueakiyama.github.io/' style='color:#ffffff'><u>L
 - **Spécialité**: histoire française.
 - **Langues**: japonais🇯🇵 (langue maternelle), anglais🇬🇧 (C1), français🇫🇷 (C1), allemand🇩🇪, russe🇷🇺, latin, toki pona.
 - **Autres Mots-clés**: Piano🎹, Composition🎼, Vocaloid, HATSUNE Miku, Cosplay
+
 ## Les Réseaux Sociaux
 Consultez [https://sueakiyama.github.io/links](https://sueakiyama.github.io/links)
 
