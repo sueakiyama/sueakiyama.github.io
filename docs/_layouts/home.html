@@ -13,7 +13,7 @@
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
               {% if my_page.title_for_header %}
-                {% unless my_page.title_for_header == "ACCUEIL" or my_page.title_for_header == "Links" or my_page.redirect %}
+                {% unless my_page.title_for_header == "ACCUEIL" or my_page.title_for_header == "Links" or my_page.title_for_header == "Illustr." or my_page.redirect %}
                    <li class="inline-block">
                      <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | remove: '.html' | prepend: site.baseurl }}">{{ my_page.title_for_header }}</a>
                    </li>
