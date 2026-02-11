@@ -7,4 +7,4 @@ image: https://sueakiyama.github.io/thumbnail_new.png
 
 読んだ本・観た映画などの記録です。今のところはスプレッドシートを貼り付けただけですが、そのうちちゃんと整備する予定です。
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQz_M0slJQCoZpkAnIH75CYRJSlXlCaL49JF9X3WidtFOQBJk_H5_FhTSvFvtCQSg/pubhtml?widget=true&amp;headers=false" widht="100%" height="400px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQz_M0slJQCoZpkAnIH75CYRJSlXlCaL49JF9X3WidtFOQBJk_H5_FhTSvFvtCQSg/pubhtml?widget=true&amp;headers=false" width="100%" height="400px"></iframe>
