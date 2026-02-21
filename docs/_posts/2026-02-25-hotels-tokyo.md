@@ -112,19 +112,19 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 <table>
 <tr>
 <th>住所</th>
-<td></td>
+<td>東京都台東区下谷3-10-10</td>
 </tr>
 <tr>
 <th>最寄り駅</th>
-<td></td>
+<td>JR鶯谷・メトロ入谷</td>
 </tr>
 <tr>
 <th>ウェブサイト</th>
-<td></td>
+<td><a href="https://www.1980stay.com/" target="_blank">https://www.1980stay.com/</a></td>
 </tr>
 <tr>
 <th>おすすめ予約手段</th>
-<td></td>
+<td>公式サイト</td>
 </tr>
 </table>
 
