@@ -223,3 +223,29 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 
 あと、この施設には、私の忘れ物を拾って取り置いてくれていたという、個人的な恩があります。清掃がきちんとしてるんですねえ。
 
+### Hotel Owl Tokyo Shinbashi
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/NEyncgU9TmRBhbAN6" target="_blank">東京都港区新橋3-15-7</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR新橋・メトロ新橋・都営内幸町</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td>なし</td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.booking.com/Share-rLAIiX" target="_blank">Booking.com</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>6/10</td>
+</tr>
+</table>
+
+立地はとても良いです。最低限の設備はあります。ただ、とにかく狭い。めちゃくちゃ狭い。雑居ビルの2階に、二段ベッドを詰め込めるだけ詰め込んだ、という感じです。食事スペースがないホステルって、初めて見ました。大便器も一つしかなく、しかもウォッシュレットが壊れていてウケました。
