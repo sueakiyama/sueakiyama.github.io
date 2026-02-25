@@ -341,7 +341,7 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 <table>
 <tr>
 <th>住所</th>
-<td><a href="https://maps.app.goo.gl/4SY5yfvHnw2oK2586" target="_blank">東京都墨田区太平2-5-4</a></td>
+<td><a href="https://maps.app.goo.gl/MPZJY1LcpWfAKPfv5" target="_blank">東京都墨田区太平2-5-4</a></td>
 </tr>
 <tr>
 <th>最寄り駅</th>
