@@ -249,3 +249,62 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 </table>
 
 立地はとても良いです。最低限の設備はあります。ただ、とにかく狭い。めちゃくちゃ狭い。雑居ビルの2階に、二段ベッドを詰め込めるだけ詰め込んだ、という感じです。食事スペースがないホステルって、初めて見ました。大便器も一つしかなく、しかもウォッシュレットが壊れていてウケました。
+
+
+### E10 Hostel
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/UCyCnCaFSmuWqTS9A" target="_blank">東京都台東区三筋2丁目11-2</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>都営新御徒町・JR御徒町</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td><a href="https://e10hostel.com/" target="_blank">https://e10hostel.com/</a></td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.booking.com/Share-TMAhPEd" target="_blank">Booking.com</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>8/10</td>
+</tr>
+</table>
+
+新しいホステルで、内装がおしゃれ。ロビーはカフェみたいな感じでした。私が行ったときは、カプセル内の Wifi がとても弱かったです。ただ、オープン直後だったらしいので、その後改善されているのかも?
+
+### カプセルホテル鈴森屋
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/ALq6yEVR7NBUS98E6" target="_blank">東京都墨田区江東橋4-6-5</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR・メトロ錦糸町</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td><a href="https://www.lep.co.jp/kinshicho" target="_blank">https://www.lep.co.jp/kinshicho</a></td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.booking.com/Share-R8L4wms" target="_blank">Booking.com</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>8/10</td>
+</tr>
+</table>
+
+普段は若干高めのお宿なのですが、年末に booking.com でセールをしていたので、何度か泊まりました。駅からのアクセスが良く、設備もきれいで、全体的に良い宿だとは思います。ただ、食事をするスペースが、ベッドの数に対して少なすぎる、という欠点があります。
+
+
+
+
