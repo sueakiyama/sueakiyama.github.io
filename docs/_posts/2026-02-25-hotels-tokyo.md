@@ -4,7 +4,7 @@ title: "東京安宿探訪"
 excerpt: "東京の安ホテルに泊まってみましょう。安宿の探し方と、ちょっとしたレビュー。"
 description: "東京の安ホテルに泊まってみましょう。安宿の探し方と、ちょっとしたレビュー。"
 author: "秋山翠花"
-image: https://sueakiyama.github.io/images/20250802_0.webp
+image: https://sueakiyama.github.io/images/20260225_7.webp
 ---
 
 ## 0. はじめに
