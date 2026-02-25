@@ -228,7 +228,7 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 <table>
 <tr>
 <th>住所</th>
-<td><a href="https://maps.app.goo.gl/NEyncgU9TmRBhbAN6" target="_blank">東京都港区新橋3-15-7</a></td>
+<td><a href="https://maps.app.goo.gl/keTuQYFN66KfmBe6A" target="_blank">東京都港区新橋3-15-7</a></td>
 </tr>
 <tr>
 <th>最寄り駅</th>
@@ -299,7 +299,7 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 </tr>
 <tr>
 <th>点数 (独断)</th>
-<td>8/10</td>
+<td>7/10</td>
 </tr>
 </table>
 
@@ -333,6 +333,116 @@ EU・アメリカ・カナダなどの大学に学籍がある方は、[Student 
 
 いわゆる民泊です。雑居ビルの1フロアを改装して、トイレ・シャワー共用の個室にしているようです。カプセルホテルと同じ値段で個室に泊まれるのが、最大の利点だと思います。建物自体は古いですが、内装はきちんとリフォームされている気がします。窓の防音性能が低いので、耳栓を持参すると良いかも。あと、埋立地の安ホテル (ホテルじゃないか……) って結構珍しいです。だいたい浅草・入谷近辺にあるので……
 
+### ステイワーク錦糸町
 
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/4SY5yfvHnw2oK2586" target="_blank">東京都墨田区太平2-5-4</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR・メトロ錦糸町</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td>なし</td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.jalan.net/yad303710/" target="_blank">じゃらんnet</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>8/10</td>
+</tr>
+</table>
 
+特に言うことはないです (だんだん記事執筆に飽きてきた)。「ステイワーク」と言いつつ、別に作業スペースが大きいわけではなく、ごく普通のカプセルホテルだと思います。私が泊まったカプセルは、部屋の隅ということもあり、梯子の設置方法ががちょっと変則的で怖かったです。Google Map のレビューに、階段が生臭い? というのがあってドキドキしていたのですが、あまり感じませんでした。1階の魚介系ラーメン屋の匂いらしいのですが、営業時間中に行けばまた違うのかもしれません。
 
+### Hotel Owl Tokyo
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/DPRjhGtP1v9vEcNS8" target="_blank">東京都荒川区東日暮里6-59-3</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR日暮里・メトロ西日暮里</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td><a href="https://www.hotel-owl.co.jp/" target="_blank">https://www.hotel-owl.co.jp/</a></td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.jalan.net/yad327925/" target="_blank">じゃらんnet</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>9/10</td>
+</tr>
+</table>
+
+比較的頻繁に泊まっている宿です。二段ベッド上段へのアクセスが、梯子ではなくて階段なのが特徴的。ロビーに無料の飲み物サーバーがあるのも嬉しいポイントです。あと、比較的安い。じゃらんの中では最安じゃないかしら。
+
+短所としては、タオルの貸し出しがないこと。普通、どんなホステルに泊まってもタオルはあるのですが、この Hotel Owl Tokyo にはありません (500円程度で購入可能なようです)。自宅から持っていくか、すぐ隣の銭湯で「手ぶらセット」(たしか100円くらい) を利用するのがおすすめです。
+
+前出の Hotel Owl Tokyo Shinbashi との関係は謎です。ロゴは一緒な気がするのですが、公式サイトに記載がなく……
+
+### 荻窪とんぼホテル
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/HveXpLhKWfCPWj6q6" target="_blank">東京都杉並区上荻1-15-12</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR・メトロ荻窪</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td>なし</td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.jalan.net/yad307932/" target="_blank">じゃらんnet</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>8/10</td>
+</tr>
+</table>
+
+荻窪駅前にある、おそらく居酒屋を改装したホステル。綺麗で良いと思います。お値段はちょっと高めかな……　私は Trip.com で予約したのですが、今見たら、予約できなくなっていました。じゃらんと楽天トラベルが使えるみたいですが、じゃらんの方が若干安いです。
+
+### HOTEL WINDS ASAKUSA Capsule Inn
+
+<table>
+<tr>
+<th>住所</th>
+<td><a href="https://maps.app.goo.gl/yfmfsYyw4xkrm1ai8" target="_blank">東京都台東区元浅草3-6-4</a></td>
+</tr>
+<tr>
+<th>最寄り駅</th>
+<td>JR御徒町・都営新御徒町</td>
+</tr>
+<tr>
+<th>ウェブサイト</th>
+<td>なし</td>
+</tr>
+<tr>
+<th>おすすめ予約手段</th>
+<td><a href="https://www.trip.com/w/MqSxoPNWeT2" target="_blank">Trip.com</a></td>
+</tr>
+<tr>
+<th>点数 (独断)</th>
+<td>7/10</td>
+</tr>
+</table>
+
+たいへん新しいホステル。全体的にインバウンド向けという雰囲気があり、ロビーが畳敷きで和傘がかけてあったり、有料のジム (500円) があったりして、面白かったです。また、大浴場 (といっても、キャパは4人程度) が500円で利用できるのもよかったです。まあ、至近に銭湯があるので、そちらに行くほうが満足度は高いかもしれませんが……
+
+短所は、全体的な安普請感。トイレのドアノブがぐらついている、カプセル内のハンガー掛けが脱落する、梯子ががたがたしているなど、ちょっと不安になりました。オープンして半年も経ってないのに……
