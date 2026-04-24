@@ -30,7 +30,7 @@ ___
 ### ぼくが初音ミクなら
 
 <div class="song-block">
-    <img src="https://sueakiyama.github.io/images/20260423_1.webp" alt="ぼくが初音ミクなら　ジャケット" class="announce-float-left">
+    <img src="https://sueakiyama.github.io/cds/images/cd12_a.webp" alt="ぼくが初音ミクなら　ジャケット" class="announce-float-left">
     <table class="announce-float-right">
         <thead>
             <tr>
