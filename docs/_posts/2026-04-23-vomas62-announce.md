@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title: "C106に参加します!"
+title: "超ボーマス62に参加します!"
 excerpt: "2026年4月26日の超ボーマス62に参加します!"
 description: "2026年4月26日の超ボーマス62に参加します!"
 author: "秋山翠花"
