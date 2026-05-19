@@ -24,7 +24,7 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 本郷の会場に到着したら、机を並べ替える作業をします。今回の会場 (工学部8号館88L教室) は、普段は会議室として使われていて (たぶん)、この机を「即売会形式」に並び替えなければいけません。
 
-![配置前の机の様子](images/20260518_0.webp)  
+![配置前の机の様子](https://sueakiyama.github.io/images/20260518_0.webp)  
 配置前の机の様子。
 
 それが終わったら、配置図を貼って、三角 (ブース番号とサークル名が書かれたもの) を作って……など、色々細かい作業が続きます。私はこのあたりから、自分のサークルの準備をはじめました (サボりか?)。
@@ -35,7 +35,7 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 準備が思ったより早めに終わったので、早めに帰宅して、翌日に備えます。がんばるぞ……!
 
-![本郷の謎スポット](images/20260518_1.webp)  
+![本郷の謎スポット](https://sueakiyama.github.io/images/20260518_1.webp)  
 本郷の謎スポット。
 
 ## 1日目
@@ -44,7 +44,7 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">同人誌即売会の夢見ました　おはようございます</p>&mdash; 秋山翠花@コミアカ28 N01🍊🌊 (@MTDTR_tk) <a href="https://twitter.com/MTDTR_tk/status/2055379582606590431?ref_src=twsrc%5Etfw">May 15, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-![夢の内容](images/20260518_3.webp)  
+![夢の内容](https://sueakiyama.github.io/images/20260518_3.webp)  
 夢の内容。
 
 即売会の朝恒例、5時起きです。
@@ -57,7 +57,7 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 さて、なんとか出発したものの、パソコンを家に忘れる不手際で30分ロス。会場に着いたのは、受付終了30分前の9時でした。そこから着替えをしていたので、当然遅刻です。更衣室がコミアカ会場に近かったのが、せめてもの救いでした。
 
-![設営完了](images/20260518_2.webp)  
+![設営完了](https://sueakiyama.github.io/images/20260518_2.webp)  
 設営完了!
 
 なんとか設営を完了しました。展示台が良い感じですね。導入してよかったです。
@@ -88,7 +88,7 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 とはいえ、やっぱり寂しいものは寂しいので、ドカ食いを……
 
-![武蔵野アブラ學会](images/20260518_4.webp)  
+![武蔵野アブラ學会](https://sueakiyama.github.io/images/20260518_4.webp)  
 武蔵野アブラ學会。
 
 明日もがんばりましょう!　おやすみなさい。
@@ -125,8 +125,8 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 あと、相方のアケちゃんのコスプレをしてくれる方も探しています。こちらは180cmくらい。
 
-![カコちゃん](images/20260518_5.webp)  
-![アケちゃん](images/20260518_6.webp)  
+![カコちゃん](https://sueakiyama.github.io/images/20260518_5.webp)  
+![アケちゃん](https://sueakiyama.github.io/images/20260518_6.webp)  
 参考: [カコちゃんとアケちゃん](https://comiaca.com/c3project/)。
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ちょっと席外します!　15時45分頃戻ります</p>&mdash; 秋山翠花@コミアカ28 N01🍊🌊 (@MTDTR_tk) <a href="https://twitter.com/MTDTR_tk/status/2055894374538793152?ref_src=twsrc%5Etfw">May 17, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -139,12 +139,12 @@ image: https://sueakiyama.github.io/images/20260518_8.webp
 
 さて、私はコミアカスタッフなので (2回目)、片付けもします。階段の掃除までしました。明らかに五月祭以前からある埃とか、いっぱい取りました。
 
-![配置図横の文字、私が書きました](images/20260518_7.webp)  
+![配置図横の文字、私が書きました](https://sueakiyama.github.io/images/20260518_7.webp)  
 配置図横の文字、じつは私が書きました!
 
 私は駒場生なので (というか、正確には、本郷より駒場のほうが家に近いので)、資材の持ち帰りを担当しました。疲れたのでスープパスタ (コミアカ用語でラーメンのこと) を食べて帰りました。
 
-![スープパスタ](images/20260518_8.webp)  
+![スープパスタ](https://sueakiyama.github.io/images/20260518_8.webp)  
 スープパスタ。
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">コミアカ28・五月祭の戦利品です!<a href="https://twitter.com/hashtag/comiaca?src=hash&amp;ref_src=twsrc%5Etfw">#comiaca</a> <a href="https://twitter.com/hashtag/%E4%BA%94%E6%9C%88%E7%A5%AD?src=hash&amp;ref_src=twsrc%5Etfw">#五月祭</a> <a href="https://t.co/EyC3mCmwCt">pic.twitter.com/EyC3mCmwCt</a></p>&mdash; 秋山翠花@コミアカ28 N01🍊🌊 (@MTDTR_tk) <a href="https://twitter.com/MTDTR_tk/status/2055986791757537643?ref_src=twsrc%5Etfw">May 17, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
