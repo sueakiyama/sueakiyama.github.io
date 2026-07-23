@@ -57,7 +57,7 @@ ___
             </tr>
             <tr>
                 <td>XFD</td>
-                <td><a href="https://nico.ms/sm46212632" target="_blank"><b>まだ</b></a></td>
+                <td><a href="https://www.nicovideo.jp/watch/sm46582699" target="_blank"><b>sm46582699</b></a></td>
             </tr>
         </tbody>
     </table>
