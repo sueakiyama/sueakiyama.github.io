@@ -43,14 +43,6 @@
               <!-- Set site description in config.yml -->
               <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
             </div>
-
-            <div class="event_info">
-              <h3>直近の参加予定イベント</h3>
-              <ul>
-                <li>コミケ</li>
-                <li>こみてっく</li>
-              </ul>
-            </div>
             
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
                 <div class="inline-block mt-3 mr-1">
@@ -65,6 +57,16 @@
         </div>
       </header>
 
+
+      
+      <div class="event_info">
+        <h3>直近の参加予定イベント</h3>
+        <ul>
+          <li>コミケ</li>
+          <li>こみてっく</li>
+        </ul>
+      </div>
+      
       <div class="container mx-auto px-2 py-4">
         {% for post in site.posts %}
           {% include post_block.html %}
